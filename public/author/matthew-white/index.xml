@@ -5,12 +5,31 @@
     <link>http://localhost:1313/author/matthew-white/</link>
       <atom:link href="http://localhost:1313/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew White</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 22 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/matthew-white/avatar_hu_3019cda99a38e7e6.jpg</url>
       <title>Matthew White</title>
       <link>http://localhost:1313/author/matthew-white/</link>
     </image>
+    
+    <item>
+      <title>Matthew White</title>
+      <link>http://localhost:1313/author/matthew-white/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/matthew-white/</guid>
+      <description>&lt;p&gt;Matthew&amp;rsquo;s undergraduate research utilized the C. elegans model system to investigate organelle biogenesis in the endosomal pathway, with particular focus on the role of Rab GTPases in regulating this process throughout embryo development.  Now he is engaged with cerebral organoid models to understand the genetic landscape of Autism Spectrum Disorder.  He&amp;rsquo;s also investigating vector-borne viral pathogenesis in the human brain, in light of climate change expanding the range of vector-borne diseases.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

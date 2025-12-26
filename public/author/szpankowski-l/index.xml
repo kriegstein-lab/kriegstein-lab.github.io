@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/szpankowski-l/</link>
       <atom:link href="http://localhost:1313/author/szpankowski-l/index.xml" rel="self" type="application/rss+xml" />
     <description>Szpankowski L</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 03 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Szpankowski L</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019/</guid>
-      <description></description>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex.</title>
+      <link>http://localhost:1313/publication/mayer-2019-30770253/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019-30770253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30770253/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30770253&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014/</guid>
-      <description></description>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex.</title>
+      <link>http://localhost:1313/publication/pollen-2014-25086649/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014-25086649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25086649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25086649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

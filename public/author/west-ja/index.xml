@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/west-ja/</link>
       <atom:link href="http://localhost:1313/author/west-ja/index.xml" rel="self" type="application/rss+xml" />
     <description>West JA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Feb 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>West JA</title>
@@ -13,43 +13,48 @@
     </image>
     
     <item>
-      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>http://localhost:1313/publication/pollen-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2019/</guid>
-      <description></description>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution.</title>
+      <link>http://localhost:1313/publication/pollen-2019-30735633/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2019-30735633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30735633/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30735633&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2018/</guid>
-      <description></description>
+      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2018-30455455/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2018-30455455/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30455455/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30455455&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014/</guid>
-      <description></description>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex.</title>
+      <link>http://localhost:1313/publication/pollen-2014-25086649/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014-25086649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25086649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25086649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

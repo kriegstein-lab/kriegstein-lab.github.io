@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/rowitch-dh/</link>
       <atom:link href="http://localhost:1313/author/rowitch-dh/index.xml" rel="self" type="application/rss+xml" />
     <description>Rowitch DH</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 06 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Rowitch DH</title>
@@ -13,43 +13,48 @@
     </image>
     
     <item>
-      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>http://localhost:1313/publication/huang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/huang-2020/</guid>
-      <description></description>
+      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells.</title>
+      <link>http://localhost:1313/publication/huang-2020-32679030/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/huang-2020-32679030/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32679030/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32679030&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
-      <description></description>
+      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation.</title>
+      <link>http://localhost:1313/publication/nobuta-2019-31585094/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nobuta-2019-31585094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31585094/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31585094&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
-      <link>http://localhost:1313/publication/nobuta-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nobuta-2019/</guid>
-      <description></description>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis.</title>
+      <link>http://localhost:1313/publication/schirmer-2019-31316211/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019-31316211/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31316211/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31316211&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
-      <description></description>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/velmeshev-2019-31097668/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019-31097668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31097668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31097668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Developmental genetics of vertebrate glial-cell specification</title>
-      <link>http://localhost:1313/publication/rowitch-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rowitch-2010/</guid>
-      <description></description>
+      <title>Developmental genetics of vertebrate glial-cell specification.</title>
+      <link>http://localhost:1313/publication/rowitch-2010-21068830/</link>
+      <pubDate>Thu, 11 Nov 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rowitch-2010-21068830/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21068830/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21068830&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

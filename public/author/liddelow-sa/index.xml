@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Liddelow SA | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/liddelow-sa/</link>
+      <atom:link href="http://localhost:1313/author/liddelow-sa/index.xml" rel="self" type="application/rss+xml" />
+    <description>Liddelow SA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Liddelow SA</title>
+      <link>http://localhost:1313/author/liddelow-sa/</link>
+    </image>
+    
+    <item>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32866962/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32866962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32866962/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32866962&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

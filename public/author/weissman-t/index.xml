@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/weissman-t/</link>
       <atom:link href="http://localhost:1313/author/weissman-t/index.xml" rel="self" type="application/rss+xml" />
     <description>Weissman T</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jun 2003 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Weissman T</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration</title>
-      <link>http://localhost:1313/publication/weissman-2003/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/weissman-2003/</guid>
-      <description></description>
+      <title>Neurogenic radial glial cells in reptile, rodent and human: from mitosis to migration.</title>
+      <link>http://localhost:1313/publication/weissman-2003-12764028/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/weissman-2003-12764028/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12764028/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12764028&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

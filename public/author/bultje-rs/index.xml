@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/bultje-rs/</link>
       <atom:link href="http://localhost:1313/author/bultje-rs/index.xml" rel="self" type="application/rss+xml" />
     <description>Bultje RS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Bultje RS</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
-      <link>http://localhost:1313/publication/bultje-2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bultje-2009/</guid>
-      <description></description>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity.</title>
+      <link>http://localhost:1313/publication/chen-2013-23273878/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2013-23273878/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23273878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23273878&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex.</title>
+      <link>http://localhost:1313/publication/bultje-2009-19640478/</link>
+      <pubDate>Thu, 30 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bultje-2009-19640478/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19640478/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19640478&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/pannagel-b/</link>
       <atom:link href="http://localhost:1313/author/pannagel-b/index.xml" rel="self" type="application/rss+xml" />
     <description>Pannagel B</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Pannagel B</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation</title>
-      <link>http://localhost:1313/publication/petrus-reurer-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/petrus-reurer-2022/</guid>
-      <description></description>
+      <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation.</title>
+      <link>http://localhost:1313/publication/petrus-reurer-2022-35705015/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/petrus-reurer-2022-35705015/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35705015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35705015&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

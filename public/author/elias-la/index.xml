@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/elias-la/</link>
       <atom:link href="http://localhost:1313/author/elias-la/index.xml" rel="self" type="application/rss+xml" />
     <description>Elias LA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Elias LA</title>
@@ -13,27 +13,39 @@
     </image>
     
     <item>
-      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons</title>
-      <link>http://localhost:1313/publication/elias-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2010/</guid>
-      <description></description>
+      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons.</title>
+      <link>http://localhost:1313/publication/elias-2010-20484649/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2010-20484649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20484649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20484649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Gap junctions: multifaceted regulators of embryonic cortical development</title>
-      <link>http://localhost:1313/publication/elias-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2008/</guid>
-      <description></description>
+      <title>A time and a place for nkx2-1 in interneuron specification and migration.</title>
+      <link>http://localhost:1313/publication/elias-2008-18786351/</link>
+      <pubDate>Thu, 11 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2008-18786351/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18786351/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18786351&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Gap junction adhesion is necessary for radial migration in the neocortex</title>
-      <link>http://localhost:1313/publication/elias-2007/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2007/</guid>
-      <description></description>
+      <title>Gap junctions: multifaceted regulators of embryonic cortical development.</title>
+      <link>http://localhost:1313/publication/elias-2008-18403031/</link>
+      <pubDate>Thu, 01 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2008-18403031/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18403031/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18403031&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gap junction adhesion is necessary for radial migration in the neocortex.</title>
+      <link>http://localhost:1313/publication/elias-2007-17713529/</link>
+      <pubDate>Thu, 23 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2007-17713529/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17713529/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;17713529&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

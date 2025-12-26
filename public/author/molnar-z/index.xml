@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/molnar-z/</link>
       <atom:link href="http://localhost:1313/author/molnar-z/index.xml" rel="self" type="application/rss+xml" />
     <description>Molnar Z</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Molnar Z</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing</title>
-      <link>http://localhost:1313/publication/adorjan-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adorjan-2019/</guid>
-      <description></description>
+      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing.</title>
+      <link>http://localhost:1313/publication/adorjan-2019-30644551/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/adorjan-2019-30644551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30644551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30644551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>New insights into the development of the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/molnar-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molnar-2019/</guid>
-      <description></description>
+      <title>New insights into the development of the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/molnar-2019-31373394/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/molnar-2019-31373394/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31373394/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31373394&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

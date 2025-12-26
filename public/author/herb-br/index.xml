@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/herb-br/</link>
       <atom:link href="http://localhost:1313/author/herb-br/index.xml" rel="self" type="application/rss+xml" />
     <description>Herb BR</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Herb BR</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Single-cell genomics reveals region-specific developmental trajectories underlying neuronal diversity in the human hypothalamus</title>
-      <link>http://localhost:1313/publication/herb-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/herb-2023/</guid>
-      <description></description>
+      <title>Single-cell genomics reveals region-specific developmental trajectories underlying neuronal diversity in the human hypothalamus.</title>
+      <link>http://localhost:1313/publication/herb-2023-37939194/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/herb-2023-37939194/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37939194/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37939194&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/chen-j/</link>
       <atom:link href="http://localhost:1313/author/chen-j/index.xml" rel="self" type="application/rss+xml" />
     <description>Chen J</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Chen J</title>
@@ -13,107 +13,149 @@
     </image>
     
     <item>
-      <title>Proinflammatory immune cells disrupt angiogenesis and promote germinal matrix hemorrhage in prenatal human brain</title>
-      <link>http://localhost:1313/publication/chen-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/fan-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fan-2024/</guid>
-      <description></description>
+      <title>Proinflammatory immune cells disrupt angiogenesis and promote germinal matrix hemorrhage in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/chen-2024-39349662/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2024-39349662/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39349662/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39349662&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/zhang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/fan-2024-39184075/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-2024-39184075/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39184075/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39184075&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ACVR1-activating mutation causes neuropathic pain and sensory neuron hyperexcitability in humans</title>
-      <link>http://localhost:1313/publication/yu-2023/</link>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACVR1-activating mutation causes neuropathic pain and sensory neuron hyperexcitability in humans.</title>
+      <link>http://localhost:1313/publication/yu-2023-35442931/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu-2023/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/yu-2023-35442931/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35442931/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35442931&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022/</guid>
-      <description></description>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/crouch-2022-36179668/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022-36179668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36179668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36179668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain</title>
-      <link>http://localhost:1313/publication/paredes-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2022/</guid>
-      <description></description>
+      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain.</title>
+      <link>http://localhost:1313/publication/paredes-2022-35084970/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2022-35084970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35084970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35084970&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019/</guid>
-      <description></description>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32866962/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32866962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32866962/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32866962&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Transplanted Human Stem Cell-Derived Interneuron Precursors Mitigate Mouse Bladder Dysfunction and Central Neuropathic Pain after Spinal Cord Injury</title>
-      <link>http://localhost:1313/publication/fandel-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fandel-2016/</guid>
-      <description></description>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex.</title>
+      <link>http://localhost:1313/publication/mayer-2019-30770253/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019-30770253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30770253/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30770253&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A GABAergic projection from the zona incerta to cortex promotes cortical neuron development</title>
-      <link>http://localhost:1313/publication/chen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2015/</guid>
-      <description></description>
+      <title>Transplanted Human Stem Cell-Derived Interneuron Precursors Mitigate Mouse Bladder Dysfunction and Central Neuropathic Pain after Spinal Cord Injury.</title>
+      <link>http://localhost:1313/publication/fandel-2016-27666009/</link>
+      <pubDate>Thu, 06 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fandel-2016-27666009/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27666009/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27666009&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>A GABAergic projection from the zona incerta to cortex promotes cortical neuron development.</title>
+      <link>http://localhost:1313/publication/chen-2015-26429884/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2015-26429884/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26429884/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26429884&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Axonal control of the adult neural stem cell niche</title>
-      <link>http://localhost:1313/publication/tong-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tong-2014/</guid>
-      <description></description>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>http://localhost:1313/publication/price-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/price-2014/</guid>
-      <description></description>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation.</title>
+      <link>http://localhost:1313/publication/price-2014-25209293/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/price-2014-25209293/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25209293/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25209293&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development</title>
-      <link>http://localhost:1313/publication/nicholas-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nicholas-2013/</guid>
-      <description></description>
+      <title>Axonal control of the adult neural stem cell niche.</title>
+      <link>http://localhost:1313/publication/tong-2014-24561083/</link>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tong-2014-24561083/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24561083/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24561083&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development.</title>
+      <link>http://localhost:1313/publication/nicholas-2013-23642366/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nicholas-2013-23642366/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23642366/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23642366&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity.</title>
+      <link>http://localhost:1313/publication/chen-2013-23273878/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2013-23273878/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23273878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23273878&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/nowakowski-tj/</link>
       <atom:link href="http://localhost:1313/author/nowakowski-tj/index.xml" rel="self" type="application/rss+xml" />
     <description>Nowakowski TJ</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Nowakowski TJ</title>
@@ -13,219 +13,282 @@
     </image>
     
     <item>
-      <title>The new frontier in understanding human and mammalian brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2025/</guid>
-      <description></description>
+      <title>The new frontier in understanding human and mammalian brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2025-41193845/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2025-41193845/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193845/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193845&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell analysis of prenatal and postnatal human cortical development</title>
-      <link>http://localhost:1313/publication/velmeshev-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2023/</guid>
-      <description></description>
+      <title>Single-cell analysis of prenatal and postnatal human cortical development.</title>
+      <link>http://localhost:1313/publication/velmeshev-2023-37824647/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2023-37824647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37824647/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37824647&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain</title>
-      <link>http://localhost:1313/publication/paredes-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2022/</guid>
-      <description></description>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022/</guid>
-      <description></description>
+      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain.</title>
+      <link>http://localhost:1313/publication/paredes-2022-35084970/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2022-35084970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35084970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35084970&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>http://localhost:1313/publication/ahanger-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2021/</guid>
-      <description></description>
+      <title>An atlas of cortical arealization identifies dynamic molecular signatures.</title>
+      <link>http://localhost:1313/publication/bhaduri-2021-34616070/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2021-34616070/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34616070/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34616070&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
-      <link>http://localhost:1313/publication/eze-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eze-2021/</guid>
-      <description></description>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain.</title>
+      <link>http://localhost:1313/publication/ahanger-2021-34239128/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2021-34239128/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34239128/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34239128&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
-      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020/</guid>
-      <description></description>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia.</title>
+      <link>http://localhost:1313/publication/eze-2021-33723434/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eze-2021-33723434/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33723434/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33723434&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Are Organoids Ready for Prime Time?</title>
-      <link>http://localhost:1313/publication/bhaduri-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/bhaduri-2020-32888425/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-32888425/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32888425/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32888425&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>http://localhost:1313/publication/pollen-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2019/</guid>
-      <description></description>
+      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon.</title>
+      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020-32610082/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020-32610082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32610082/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32610082&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019/</guid>
-      <description></description>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31996853/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31996853/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31996853/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31996853&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing</title>
-      <link>http://localhost:1313/publication/adorjan-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adorjan-2019/</guid>
-      <description></description>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31901251/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31901251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901251/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31901251&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/werling-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/werling-2018/</guid>
-      <description></description>
+      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing.</title>
+      <link>http://localhost:1313/publication/adorjan-2019-30644551/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/adorjan-2019-30644551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30644551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30644551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis</title>
-      <link>http://localhost:1313/publication/fiddes-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fiddes-2018/</guid>
-      <description></description>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex.</title>
+      <link>http://localhost:1313/publication/mayer-2019-30770253/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019-30770253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30770253/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30770253&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage</title>
-      <link>http://localhost:1313/publication/bhaduri-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2018/</guid>
-      <description></description>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution.</title>
+      <link>http://localhost:1313/publication/pollen-2019-30735633/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2019-30735633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30735633/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30735633&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2018/</guid>
-      <description></description>
+      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2018-30455455/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2018-30455455/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30455455/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30455455&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
-      <link>http://localhost:1313/publication/bershteyn-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2017/</guid>
-      <description></description>
+      <title>Identification of cell types in a mouse brain single-cell atlas using low sampling coverage.</title>
+      <link>http://localhost:1313/publication/bhaduri-2018-30309354/</link>
+      <pubDate>Thu, 11 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2018-30309354/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30309354/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30309354&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis.</title>
+      <link>http://localhost:1313/publication/fiddes-2018-29856954/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fiddes-2018-29856954/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29856954/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29856954&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA</title>
-      <link>http://localhost:1313/publication/rani-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rani-2016/</guid>
-      <description></description>
+      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder.</title>
+      <link>http://localhost:1313/publication/werling-2018-29700473/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/werling-2018-29700473/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29700473/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29700473&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>SCell: integrated analysis of single-cell RNA-seq data</title>
-      <link>http://localhost:1313/publication/diaz-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/diaz-2016/</guid>
-      <description></description>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
-      <link>http://localhost:1313/publication/liu-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2016/</guid>
-      <description></description>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia.</title>
+      <link>http://localhost:1313/publication/bershteyn-2017-28111201/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2017-28111201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28111201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28111201&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>http://localhost:1313/publication/muller-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2016/</guid>
-      <description></description>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin.</title>
+      <link>http://localhost:1313/publication/retallack-2016-27911847/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/retallack-2016-27911847/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27911847/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27911847&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development</title>
-      <link>http://localhost:1313/publication/nowakowski-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2016/</guid>
-      <description></description>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas.</title>
+      <link>http://localhost:1313/publication/muller-2016-27888226/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2016-27888226/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27888226/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27888226&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
-      <link>http://localhost:1313/publication/retallack-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/retallack-2016/</guid>
-      <description></description>
+      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2016-27657449/</link>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016-27657449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27657449/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27657449&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>SCell: integrated analysis of single-cell RNA-seq data.</title>
+      <link>http://localhost:1313/publication/diaz-2016-27153637/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/diaz-2016-27153637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27153637/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27153637&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
-      <link>http://localhost:1313/publication/ramos-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ramos-2015/</guid>
-      <description></description>
+      <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA.</title>
+      <link>http://localhost:1313/publication/rani-2016-27263970/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rani-2016-27263970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27263970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27263970&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014/</guid>
-      <description></description>
+      <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.</title>
+      <link>http://localhost:1313/publication/nowakowski-2016-27038591/</link>
+      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016-27038591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27038591/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27038591&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Radial glia require PDGFD-PDGFRbeta signalling in human but not mouse neocortex</title>
-      <link>http://localhost:1313/publication/lui-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lui-2014/</guid>
-      <description></description>
+      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/liu-2016-27081004/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2016-27081004/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27081004/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27081004&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells.</title>
+      <link>http://localhost:1313/publication/ramos-2015-25800779/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramos-2015-25800779/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25800779/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25800779&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Radial glia require PDGFD-PDGFRbeta signalling in human but not mouse neocortex.</title>
+      <link>http://localhost:1313/publication/lui-2014-25391964/</link>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lui-2014-25391964/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25391964/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25391964&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex.</title>
+      <link>http://localhost:1313/publication/pollen-2014-25086649/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014-25086649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25086649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25086649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

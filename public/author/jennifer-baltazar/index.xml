@@ -5,12 +5,40 @@
     <link>http://localhost:1313/author/jennifer-baltazar/</link>
       <atom:link href="http://localhost:1313/author/jennifer-baltazar/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Baltazar</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jennifer-baltazar/avatar_hu_ab201cbbfe9d898f.jpeg</url>
       <title>Jennifer Baltazar</title>
       <link>http://localhost:1313/author/jennifer-baltazar/</link>
     </image>
+    
+    <item>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

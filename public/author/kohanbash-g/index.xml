@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/kohanbash-g/</link>
       <atom:link href="http://localhost:1313/author/kohanbash-g/index.xml" rel="self" type="application/rss+xml" />
     <description>Kohanbash G</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kohanbash G</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>The Phenotypes of Proliferating Glioblastoma Cells Reside on a Single Axis of Variation</title>
-      <link>http://localhost:1313/publication/wang-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2019/</guid>
-      <description></description>
+      <title>The Phenotypes of Proliferating Glioblastoma Cells Reside on a Single Axis of Variation.</title>
+      <link>http://localhost:1313/publication/wang-2019-31554641/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2019-31554641/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31554641/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31554641&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
-      <link>http://localhost:1313/publication/muller-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2017/</guid>
-      <description></description>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment.</title>
+      <link>http://localhost:1313/publication/muller-2017-29262845/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2017-29262845/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29262845/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29262845&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>http://localhost:1313/publication/muller-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2016/</guid>
-      <description></description>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas.</title>
+      <link>http://localhost:1313/publication/muller-2016-27888226/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2016-27888226/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27888226/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27888226&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

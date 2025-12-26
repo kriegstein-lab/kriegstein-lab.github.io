@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/owens-df/</link>
       <atom:link href="http://localhost:1313/author/owens-df/index.xml" rel="self" type="application/rss+xml" />
     <description>Owens DF</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Dec 2002 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Owens DF</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
+      <title>Developmental neurotransmitters?</title>
+      <link>http://localhost:1313/publication/owens-2002-12495613/</link>
+      <pubDate>Thu, 19 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/owens-2002-12495613/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12495613/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12495613&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Is there more to GABA than synaptic inhibition?</title>
-      <link>http://localhost:1313/publication/owens-2002/</link>
-      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/owens-2002/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/owens-2002-12209120/</link>
+      <pubDate>Sun, 01 Sep 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/owens-2002-12209120/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12209120/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12209120&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/andrews-mg/</link>
       <atom:link href="http://localhost:1313/author/andrews-mg/index.xml" rel="self" type="application/rss+xml" />
     <description>Andrews MG</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Andrews MG</title>
@@ -13,75 +13,121 @@
     </image>
     
     <item>
-      <title>Fate plasticity of interneuron specification</title>
-      <link>http://localhost:1313/publication/mostajo-radji-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mostajo-radji-2025/</guid>
-      <description></description>
+      <title>Fate plasticity of interneuron specification.</title>
+      <link>http://localhost:1313/publication/mostajo-radji-2025-40264797/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mostajo-radji-2025-40264797/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40264797/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40264797&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations</title>
-      <link>http://localhost:1313/publication/marsan-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/marsan-2023/</guid>
-      <description></description>
+      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development.</title>
+      <link>http://localhost:1313/publication/andrews-2023-37673072/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2023-37673072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37673072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37673072&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development</title>
-      <link>http://localhost:1313/publication/andrews-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2023/</guid>
-      <description></description>
+      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations.</title>
+      <link>http://localhost:1313/publication/marsan-2023-36602862/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marsan-2023-36602862/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36602862/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36602862&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022/</guid>
-      <description></description>
+      <title>How mechanisms of stem cell polarity shape the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/andrews-2022-36180551/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-36180551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36180551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36180551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022/</guid>
-      <description></description>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/crouch-2022-36179668/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022-36179668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36179668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36179668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2021/</guid>
-      <description></description>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Challenges of Organoid Research.</title>
+      <link>http://localhost:1313/publication/andrews-2022-34985918/</link>
+      <pubDate>Fri, 08 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-34985918/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34985918/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34985918&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2021-33469577/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2021-33469577/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33469577/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33469577&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Are Organoids Ready for Prime Time?</title>
-      <link>http://localhost:1313/publication/bhaduri-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2020/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/bhaduri-2020-32888425/</link>
+      <pubDate>Thu, 03 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-32888425/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32888425/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32888425&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
-      <link>http://localhost:1313/publication/andrews-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2020/</guid>
-      <description></description>
+      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex.</title>
+      <link>http://localhost:1313/publication/andrews-2020-32876565/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2020-32876565/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32876565/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32876565&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>http://localhost:1313/publication/pollen-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2019/</guid>
-      <description></description>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31996853/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31996853/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31996853/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31996853&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31901251/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31901251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901251/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31901251&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution.</title>
+      <link>http://localhost:1313/publication/pollen-2019-30735633/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2019-30735633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30735633/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30735633&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

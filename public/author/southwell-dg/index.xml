@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/southwell-dg/</link>
       <atom:link href="http://localhost:1313/author/southwell-dg/index.xml" rel="self" type="application/rss+xml" />
     <description>Southwell DG</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 11 Apr 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Southwell DG</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Interneurons from embryonic development to cell-based therapy</title>
-      <link>http://localhost:1313/publication/southwell-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/southwell-2014/</guid>
-      <description></description>
+      <title>Interneurons from embryonic development to cell-based therapy.</title>
+      <link>http://localhost:1313/publication/southwell-2014-24723614/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/southwell-2014-24723614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24723614/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24723614&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development</title>
-      <link>http://localhost:1313/publication/nicholas-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nicholas-2013/</guid>
-      <description></description>
+      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development.</title>
+      <link>http://localhost:1313/publication/nicholas-2013-23642366/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nicholas-2013-23642366/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23642366/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23642366&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/sandoval-espinosa-c/</link>
       <atom:link href="http://localhost:1313/author/sandoval-espinosa-c/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandoval-Espinosa C</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 Sep 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sandoval-Espinosa C</title>
@@ -13,43 +13,66 @@
     </image>
     
     <item>
-      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022/</guid>
-      <description></description>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/crouch-2022-36179668/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022-36179668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36179668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36179668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>An atlas of cortical arealization identifies dynamic molecular signatures.</title>
+      <link>http://localhost:1313/publication/bhaduri-2021-34616070/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2021-34616070/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34616070/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34616070&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development</title>
-      <link>http://localhost:1313/publication/nowakowski-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2016/</guid>
-      <description></description>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
-      <link>http://localhost:1313/publication/retallack-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/retallack-2016/</guid>
-      <description></description>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin.</title>
+      <link>http://localhost:1313/publication/retallack-2016-27911847/</link>
+      <pubDate>Tue, 13 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/retallack-2016-27911847/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27911847/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27911847&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2016-27657449/</link>
+      <pubDate>Wed, 21 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016-27657449/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27657449/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27657449&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.</title>
+      <link>http://localhost:1313/publication/nowakowski-2016-27038591/</link>
+      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016-27038591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27038591/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27038591&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

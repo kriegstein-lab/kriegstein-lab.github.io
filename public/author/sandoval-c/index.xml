@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/sandoval-c/</link>
       <atom:link href="http://localhost:1313/author/sandoval-c/index.xml" rel="self" type="application/rss+xml" />
     <description>Sandoval C</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Jul 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sandoval C</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>SCell: integrated analysis of single-cell RNA-seq data</title>
-      <link>http://localhost:1313/publication/diaz-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/diaz-2016/</guid>
-      <description></description>
+      <title>SCell: integrated analysis of single-cell RNA-seq data.</title>
+      <link>http://localhost:1313/publication/diaz-2016-27153637/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/diaz-2016-27153637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27153637/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27153637&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

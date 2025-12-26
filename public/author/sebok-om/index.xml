@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/sebok-om/</link>
       <atom:link href="http://localhost:1313/author/sebok-om/index.xml" rel="self" type="application/rss+xml" />
     <description>Sebok OM</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sebok OM</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing</title>
-      <link>http://localhost:1313/publication/adorjan-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/adorjan-2019/</guid>
-      <description></description>
+      <title>Neuroserpin expression during human brain development and in adult brain revealed by immunohistochemistry and single cell RNA sequencing.</title>
+      <link>http://localhost:1313/publication/adorjan-2019-30644551/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/adorjan-2019-30644551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30644551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30644551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

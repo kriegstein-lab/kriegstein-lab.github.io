@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/haeussler-m/</link>
       <atom:link href="http://localhost:1313/author/haeussler-m/index.xml" rel="self" type="application/rss+xml" />
     <description>Haeussler M</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Haeussler M</title>
@@ -13,67 +13,85 @@
     </image>
     
     <item>
-      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2025/</guid>
-      <description></description>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2023/</guid>
-      <description></description>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
-      <link>http://localhost:1313/publication/crouch-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/crouch-2022/</guid>
-      <description></description>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/crouch-2022-36179668/</link>
+      <pubDate>Thu, 29 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022-36179668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36179668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36179668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
-      <link>http://localhost:1313/publication/eze-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/eze-2021/</guid>
-      <description></description>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia.</title>
+      <link>http://localhost:1313/publication/eze-2021-33723434/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eze-2021-33723434/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33723434/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33723434&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
-      <description></description>
+      <title>Cell stress in cortical organoids impairs molecular subtype specification.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31996853/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31996853/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31996853/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31996853&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
-      <description></description>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis.</title>
+      <link>http://localhost:1313/publication/schirmer-2019-31316211/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019-31316211/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31316211/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31316211&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis</title>
-      <link>http://localhost:1313/publication/fiddes-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fiddes-2018/</guid>
-      <description></description>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/velmeshev-2019-31097668/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019-31097668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31097668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31097668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis.</title>
+      <link>http://localhost:1313/publication/fiddes-2018-29856954/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fiddes-2018-29856954/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29856954/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29856954&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

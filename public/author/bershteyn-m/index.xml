@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/bershteyn-m/</link>
       <atom:link href="http://localhost:1313/author/bershteyn-m/index.xml" rel="self" type="application/rss+xml" />
     <description>Bershteyn M</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Bershteyn M</title>
@@ -13,51 +13,66 @@
     </image>
     
     <item>
-      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy</title>
-      <link>http://localhost:1313/publication/bershteyn-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2023/</guid>
-      <description></description>
+      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy.</title>
+      <link>http://localhost:1313/publication/bershteyn-2023-37802038/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2023-37802038/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37802038/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37802038&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
-      <link>http://localhost:1313/publication/pollen-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2019/</guid>
-      <description></description>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution.</title>
+      <link>http://localhost:1313/publication/pollen-2019-30735633/</link>
+      <pubDate>Thu, 07 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2019-30735633/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30735633/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30735633&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
-      <link>http://localhost:1313/publication/subramanian-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/subramanian-2017/</guid>
-      <description></description>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia.</title>
+      <link>http://localhost:1313/publication/bershteyn-2017-28111201/</link>
+      <pubDate>Thu, 06 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2017-28111201/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28111201/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28111201&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
-      <link>http://localhost:1313/publication/bershteyn-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2017/</guid>
-      <description></description>
+      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain.</title>
+      <link>http://localhost:1313/publication/subramanian-2017-28139695/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/subramanian-2017-28139695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28139695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28139695&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
-      <link>http://localhost:1313/publication/bershteyn-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2014/</guid>
-      <description></description>
+      <title>Expression Analysis Highlights AXL as a Candidate Zika Virus Entry Receptor in Neural Stem Cells.</title>
+      <link>http://localhost:1313/publication/nowakowski-2016-27038591/</link>
+      <pubDate>Thu, 05 May 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016-27038591/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27038591/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27038591&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cerebral organoids in a dish: progress and prospects</title>
-      <link>http://localhost:1313/publication/bershteyn-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2013/</guid>
-      <description></description>
+      <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells.</title>
+      <link>http://localhost:1313/publication/bershteyn-2014-24413397/</link>
+      <pubDate>Thu, 06 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2014-24413397/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24413397/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24413397&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cerebral organoids in a dish: progress and prospects.</title>
+      <link>http://localhost:1313/publication/bershteyn-2013-24074857/</link>
+      <pubDate>Thu, 26 Sep 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2013-24074857/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24074857/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24074857&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

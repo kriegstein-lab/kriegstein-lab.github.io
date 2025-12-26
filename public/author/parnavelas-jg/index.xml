@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/parnavelas-jg/</link>
       <atom:link href="http://localhost:1313/author/parnavelas-jg/index.xml" rel="self" type="application/rss+xml" />
     <description>Parnavelas JG</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 May 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Parnavelas JG</title>
@@ -13,11 +13,30 @@
     </image>
     
     <item>
-      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons</title>
-      <link>http://localhost:1313/publication/elias-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2010/</guid>
-      <description></description>
+      <title>Connexin 43 mediates the tangential to radial migratory switch in ventrally derived cortical interneurons.</title>
+      <link>http://localhost:1313/publication/elias-2010-20484649/</link>
+      <pubDate>Wed, 19 May 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2010-20484649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20484649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20484649&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress in corticogenesis.</title>
+      <link>http://localhost:1313/publication/kriegstein-2006-16766695/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2006-16766695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16766695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16766695&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Changing concepts of cortical development.</title>
+      <link>http://localhost:1313/publication/kriegstein-2003-12764026/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2003-12764026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12764026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12764026&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

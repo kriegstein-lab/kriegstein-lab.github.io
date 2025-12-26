@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/harwell-cc/</link>
       <atom:link href="http://localhost:1313/author/harwell-cc/index.xml" rel="self" type="application/rss+xml" />
     <description>Harwell CC</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Harwell CC</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons</title>
-      <link>http://localhost:1313/publication/harwell-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/harwell-2015/</guid>
-      <description></description>
+      <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons.</title>
+      <link>http://localhost:1313/publication/harwell-2015-26299474/</link>
+      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/harwell-2015-26299474/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26299474/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26299474&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Sonic hedgehog expression in corticofugal projection neurons directs cortical microcircuit formation</title>
-      <link>http://localhost:1313/publication/harwell-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/harwell-2012/</guid>
-      <description></description>
+      <title>Sonic hedgehog expression in corticofugal projection neurons directs cortical microcircuit formation.</title>
+      <link>http://localhost:1313/publication/harwell-2012-22445340/</link>
+      <pubDate>Thu, 22 Mar 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/harwell-2012-22445340/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22445340/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22445340&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Persistent sonic hedgehog signaling in adult brain determines neural stem cell positional identity</title>
-      <link>http://localhost:1313/publication/ihrie-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ihrie-2011/</guid>
-      <description></description>
+      <title>Persistent sonic hedgehog signaling in adult brain determines neural stem cell positional identity.</title>
+      <link>http://localhost:1313/publication/ihrie-2011-21791285/</link>
+      <pubDate>Thu, 28 Jul 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ihrie-2011-21791285/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21791285/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21791285&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

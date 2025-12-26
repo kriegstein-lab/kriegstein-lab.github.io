@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/jiang-x/</link>
       <atom:link href="http://localhost:1313/author/jiang-x/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiang X</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Nov 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Jiang X</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Phospholipid-flippase chaperone CDC50A is required for synapse maintenance by regulating phosphatidylserine exposure</title>
-      <link>http://localhost:1313/publication/li-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2021/</guid>
-      <description></description>
+      <title>Phospholipid-flippase chaperone CDC50A is required for synapse maintenance by regulating phosphatidylserine exposure.</title>
+      <link>http://localhost:1313/publication/li-2021-34585770/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-34585770/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34585770/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34585770&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

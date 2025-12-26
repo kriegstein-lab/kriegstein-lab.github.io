@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/price-jd/</link>
       <atom:link href="http://localhost:1313/author/price-jd/index.xml" rel="self" type="application/rss+xml" />
     <description>Price JD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 10 Sep 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Price JD</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>http://localhost:1313/publication/price-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/price-2014/</guid>
-      <description></description>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation.</title>
+      <link>http://localhost:1313/publication/price-2014-25209293/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/price-2014-25209293/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25209293/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25209293&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

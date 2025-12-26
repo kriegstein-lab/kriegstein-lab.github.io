@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/fishell-g/</link>
       <atom:link href="http://localhost:1313/author/fishell-g/index.xml" rel="self" type="application/rss+xml" />
     <description>Fishell G</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2005 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Fishell G</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Cortical development: new concepts</title>
-      <link>http://localhost:1313/publication/fishell-2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fishell-2005/</guid>
-      <description></description>
+      <title>The temporal and spatial origins of cortical interneurons predict their physiological subtype.</title>
+      <link>http://localhost:1313/publication/butt-2005-16301176/</link>
+      <pubDate>Wed, 23 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/butt-2005-16301176/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16301176/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16301176&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The temporal and spatial origins of cortical interneurons predict their physiological subtype</title>
-      <link>http://localhost:1313/publication/butt-2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/butt-2005/</guid>
-      <description></description>
+      <title>Cortical development: new concepts.</title>
+      <link>http://localhost:1313/publication/fishell-2005-15882631/</link>
+      <pubDate>Thu, 05 May 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fishell-2005-15882631/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15882631/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15882631&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Neurons from radial glia: the consequences of asymmetric inheritance</title>
-      <link>http://localhost:1313/publication/fishell-2003/</link>
-      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fishell-2003/</guid>
-      <description></description>
+      <title>Neurons from radial glia: the consequences of asymmetric inheritance.</title>
+      <link>http://localhost:1313/publication/fishell-2003-12593980/</link>
+      <pubDate>Sat, 01 Feb 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fishell-2003-12593980/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12593980/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12593980&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

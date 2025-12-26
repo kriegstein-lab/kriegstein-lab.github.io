@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/walter-pb/</link>
       <atom:link href="http://localhost:1313/author/walter-pb/index.xml" rel="self" type="application/rss+xml" />
     <description>Walter PB</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 03 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Walter PB</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
-      <link>http://localhost:1313/publication/nobuta-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nobuta-2019/</guid>
-      <description></description>
+      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation.</title>
+      <link>http://localhost:1313/publication/nobuta-2019-31585094/</link>
+      <pubDate>Thu, 03 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nobuta-2019-31585094/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31585094/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31585094&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

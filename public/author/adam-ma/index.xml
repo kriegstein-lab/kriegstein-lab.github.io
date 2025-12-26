@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/adam-ma/</link>
       <atom:link href="http://localhost:1313/author/adam-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Adam MA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Adam MA</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex</title>
-      <link>http://localhost:1313/publication/mukhtar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mukhtar-2025/</guid>
-      <description></description>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

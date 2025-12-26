@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/neumann-ek/</link>
       <atom:link href="http://localhost:1313/author/neumann-ek/index.xml" rel="self" type="application/rss+xml" />
     <description>Neumann EK</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Dec 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Neumann EK</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Identification of Lipid Heterogeneity and Diversity in the Developing Human Brain</title>
-      <link>http://localhost:1313/publication/bhaduri-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bhaduri-2021/</guid>
-      <description></description>
+      <title>Identification of Lipid Heterogeneity and Diversity in the Developing Human Brain.</title>
+      <link>http://localhost:1313/publication/bhaduri-2021-34977897/</link>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2021-34977897/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34977897/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34977897&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

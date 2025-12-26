@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/ross-j/</link>
       <atom:link href="http://localhost:1313/author/ross-j/index.xml" rel="self" type="application/rss+xml" />
     <description>Ross J</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Ross J</title>
@@ -13,35 +13,39 @@
     </image>
     
     <item>
-      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex</title>
-      <link>http://localhost:1313/publication/mukhtar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mukhtar-2025/</guid>
-      <description></description>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development</title>
-      <link>http://localhost:1313/publication/andrews-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2023/</guid>
-      <description></description>
+      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development.</title>
+      <link>http://localhost:1313/publication/andrews-2023-37673072/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2023-37673072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37673072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37673072&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022/</guid>
-      <description></description>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human intermediate progenitor diversity during cortical development</title>
-      <link>http://localhost:1313/publication/pebworth-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pebworth-2021/</guid>
-      <description></description>
+      <title>Human intermediate progenitor diversity during cortical development.</title>
+      <link>http://localhost:1313/publication/pebworth-2021-34155100/</link>
+      <pubDate>Tue, 29 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pebworth-2021-34155100/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34155100/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34155100&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

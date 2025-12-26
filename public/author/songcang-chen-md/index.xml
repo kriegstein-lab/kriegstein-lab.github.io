@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/songcang-chen-md/</link>
       <atom:link href="http://localhost:1313/author/songcang-chen-md/index.xml" rel="self" type="application/rss+xml" />
     <description>Songcang Chen, MD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/songcang-chen-md/avatar_hu_3e6dd386a7a2f889.jpg</url>
       <title>Songcang Chen, MD</title>
@@ -13,11 +13,39 @@
     </image>
     
     <item>
-      <title>Songcang Chen, MD</title>
-      <link>http://localhost:1313/author/songcang-chen-md/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/songcang-chen-md/</guid>
-      <description>&lt;p&gt;Dr. Chen’s research mainly focuses on vitamin D receptor (VDR) biology and the role of vitamin D in hypertension and cardiometabolic disease. He successfully generated floxed VDR mice and developed several types of tissue/cell-specific VDR knockout mice including CD4+ T lymphocytes. Recently, his is interested in stem cell research and neuroscience.&lt;/p&gt;
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity.</title>
+      <link>http://localhost:1313/publication/chen-2013-23273878/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2013-23273878/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23273878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23273878&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/satija-r/</link>
       <atom:link href="http://localhost:1313/author/satija-r/index.xml" rel="self" type="application/rss+xml" />
     <description>Satija R</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Satija R</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>A roadmap for the Human Developmental Cell Atlas</title>
-      <link>http://localhost:1313/publication/haniffa-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/haniffa-2021/</guid>
-      <description></description>
+      <title>A roadmap for the Human Developmental Cell Atlas.</title>
+      <link>http://localhost:1313/publication/haniffa-2021-34497388/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/haniffa-2021-34497388/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34497388/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34497388&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Human Cell Atlas</title>
-      <link>http://localhost:1313/publication/regev-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/regev-2017/</guid>
-      <description></description>
+      <title>The Human Cell Atlas.</title>
+      <link>http://localhost:1313/publication/regev-2017-29206104/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/regev-2017-29206104/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29206104/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29206104&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

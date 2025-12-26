@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/velmeshev-d/</link>
       <atom:link href="http://localhost:1313/author/velmeshev-d/index.xml" rel="self" type="application/rss+xml" />
     <description>Velmeshev D</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 04 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Velmeshev D</title>
@@ -13,107 +13,140 @@
     </image>
     
     <item>
-      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2025/</guid>
-      <description></description>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations</title>
-      <link>http://localhost:1313/publication/marsan-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/marsan-2023/</guid>
-      <description></description>
+      <title>Single-cell analysis of prenatal and postnatal human cortical development.</title>
+      <link>http://localhost:1313/publication/velmeshev-2023-37824647/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2023-37824647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37824647/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37824647&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2023/</guid>
-      <description></description>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell analysis of prenatal and postnatal human cortical development</title>
-      <link>http://localhost:1313/publication/velmeshev-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2023/</guid>
-      <description></description>
+      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations.</title>
+      <link>http://localhost:1313/publication/marsan-2023-36602862/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marsan-2023-36602862/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36602862/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36602862&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2022/</guid>
-      <description></description>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes</title>
-      <link>http://localhost:1313/publication/andrews-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2021/</guid>
-      <description></description>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2021-33469577/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2021-33469577/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33469577/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33469577&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Identification of amygdala-expressed genes associated with autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/herrero-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/herrero-2020/</guid>
-      <description></description>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32866962/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32866962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32866962/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32866962&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells</title>
-      <link>http://localhost:1313/publication/huang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/huang-2020/</guid>
-      <description></description>
+      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells.</title>
+      <link>http://localhost:1313/publication/huang-2020-32679030/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/huang-2020-32679030/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32679030/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32679030&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>http://localhost:1313/publication/sorrells-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2019/</guid>
-      <description></description>
+      <title>Identification of amygdala-expressed genes associated with autism spectrum disorder.</title>
+      <link>http://localhost:1313/publication/herrero-2020-32460837/</link>
+      <pubDate>Wed, 27 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/herrero-2020-32460837/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32460837/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32460837&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
-      <link>http://localhost:1313/publication/mayer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mayer-2019/</guid>
-      <description></description>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31901251/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31901251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901251/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31901251&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
-      <description></description>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis.</title>
+      <link>http://localhost:1313/publication/schirmer-2019-31316211/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019-31316211/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31316211/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31316211&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
-      <description></description>
+      <title>Immature excitatory neurons develop during adolescence in the human amygdala.</title>
+      <link>http://localhost:1313/publication/sorrells-2019-31227709/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2019-31227709/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31227709/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31227709&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/velmeshev-2019-31097668/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019-31097668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31097668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31097668&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex.</title>
+      <link>http://localhost:1313/publication/mayer-2019-30770253/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019-30770253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30770253/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30770253&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

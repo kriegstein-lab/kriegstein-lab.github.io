@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/gao-f/</link>
       <atom:link href="http://localhost:1313/author/gao-f/index.xml" rel="self" type="application/rss+xml" />
     <description>Gao F</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gao F</title>
@@ -13,19 +13,32 @@
     </image>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/fan-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fan-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/zhang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/fan-2024-39184075/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-2024-39184075/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39184075/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39184075&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

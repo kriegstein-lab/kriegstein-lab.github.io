@@ -5,12 +5,31 @@
     <link>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/</link>
       <atom:link href="http://localhost:1313/author/lilian-gomes-de-oliveira-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Lilian Gomes de Oliveira, PhD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/avatar_hu_9b988d3f255f36a8.jpeg</url>
       <title>Lilian Gomes de Oliveira, PhD</title>
       <link>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/</link>
     </image>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

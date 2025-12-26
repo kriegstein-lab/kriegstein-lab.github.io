@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/wang-y/</link>
       <atom:link href="http://localhost:1313/author/wang-y/index.xml" rel="self" type="application/rss+xml" />
     <description>Wang Y</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Wang Y</title>
@@ -13,35 +13,40 @@
     </image>
     
     <item>
-      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex</title>
-      <link>http://localhost:1313/publication/mukhtar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/mukhtar-2025/</guid>
-      <description></description>
+      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma.</title>
+      <link>http://localhost:1313/publication/nimkar-2025-40840447/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nimkar-2025-40840447/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40840447/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40840447&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma</title>
-      <link>http://localhost:1313/publication/nimkar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nimkar-2025/</guid>
-      <description></description>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts: diversity, topography, and perivascularity</title>
-      <link>http://localhost:1313/publication/tsai-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2024/</guid>
-      <description></description>
+      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts: diversity, topography, and perivascularity.</title>
+      <link>http://localhost:1313/publication/tsai-2024-39763751/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tsai-2024-39763751/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39763751/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39763751&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Use of \&#34;MGE enhancers\&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons</title>
-      <link>http://localhost:1313/publication/chen-2013/</link>
+      <title>Use of &#34;MGE enhancers&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons.</title>
+      <link>http://localhost:1313/publication/chen-2013-23658702/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2013/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/chen-2013-23658702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23658702/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23658702&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

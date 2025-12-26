@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/zhang-j/</link>
       <atom:link href="http://localhost:1313/author/zhang-j/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhang J</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Zhang J</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations</title>
-      <link>http://localhost:1313/publication/marsan-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/marsan-2023/</guid>
-      <description></description>
+      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations.</title>
+      <link>http://localhost:1313/publication/marsan-2023-36602862/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marsan-2023-36602862/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36602862/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36602862&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32866962/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32866962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32866962/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32866962&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

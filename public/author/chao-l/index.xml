@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/chao-l/</link>
       <atom:link href="http://localhost:1313/author/chao-l/index.xml" rel="self" type="application/rss+xml" />
     <description>Chao L</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Chao L</title>
@@ -13,19 +13,31 @@
     </image>
     
     <item>
-      <title>G-protein-coupled receptor ADGRG1 drives a protective microglial state in Alzheimer&#39;s disease through MYC activation</title>
-      <link>http://localhost:1313/publication/zhu-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhu-2025/</guid>
-      <description></description>
+      <title>G-protein-coupled receptor ADGRG1 drives a protective microglial state in Alzheimer&#39;s disease through MYC activation.</title>
+      <link>http://localhost:1313/publication/zhu-2025-41175871/</link>
+      <pubDate>Wed, 19 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-2025-41175871/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41175871/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41175871&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Adhesion G protein-coupled receptor ADGRG1 promotes protective microglial response in Alzheimer&#39;s disease</title>
-      <link>http://localhost:1313/publication/zhu-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhu-2024/</guid>
-      <description></description>
+      <title>G-protein-coupled receptor ADGRG1 drives a protective microglial state in Alzheimer&#39;s disease through MYC activation.</title>
+      <link>http://localhost:1313/publication/zhu-2025-40713954/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-2025-40713954/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40713954/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40713954&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adhesion G protein-coupled receptor ADGRG1 promotes protective microglial response in Alzheimer&#39;s disease.</title>
+      <link>http://localhost:1313/publication/zhu-2024-39464012/</link>
+      <pubDate>Fri, 18 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhu-2024-39464012/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39464012/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39464012&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

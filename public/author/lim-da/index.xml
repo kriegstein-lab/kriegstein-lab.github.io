@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/lim-da/</link>
       <atom:link href="http://localhost:1313/author/lim-da/index.xml" rel="self" type="application/rss+xml" />
     <description>Lim DA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Jun 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Lim DA</title>
@@ -13,91 +13,113 @@
     </image>
     
     <item>
-      <title>Substructure and maturation of lamina-associated domains in neurons of the developing and adult human brain</title>
-      <link>http://localhost:1313/publication/zhang-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2025/</guid>
-      <description></description>
+      <title>Substructure and maturation of lamina-associated domains in neurons of the developing and adult human brain.</title>
+      <link>http://localhost:1313/publication/zhang-2025-40502115/</link>
+      <pubDate>Sat, 07 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-40502115/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40502115/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40502115&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial 3D genome organization controls the activity of bivalent chromatin during human neurogenesis</title>
-      <link>http://localhost:1313/publication/ahanger-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2024/</guid>
-      <description></description>
+      <title>Spatial 3D genome organization controls the activity of bivalent chromatin during human neurogenesis.</title>
+      <link>http://localhost:1313/publication/ahanger-2024-39131314/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2024-39131314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131314/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131314&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>http://localhost:1313/publication/ahanger-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2021/</guid>
-      <description></description>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain.</title>
+      <link>http://localhost:1313/publication/ahanger-2021-34239128/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2021-34239128/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34239128/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34239128&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
-      <link>http://localhost:1313/publication/muller-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2017/</guid>
-      <description></description>
+      <title>Outer Radial Glia-like Cancer Stem Cells Contribute to Heterogeneity of Glioblastoma.</title>
+      <link>http://localhost:1313/publication/bhaduri-2020-31901251/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2020-31901251/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31901251/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31901251&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment.</title>
+      <link>http://localhost:1313/publication/muller-2017-29262845/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2017-29262845/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29262845/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29262845&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>SCell: integrated analysis of single-cell RNA-seq data</title>
-      <link>http://localhost:1313/publication/diaz-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/diaz-2016/</guid>
-      <description></description>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex</title>
-      <link>http://localhost:1313/publication/liu-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liu-2016/</guid>
-      <description></description>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas.</title>
+      <link>http://localhost:1313/publication/muller-2016-27888226/</link>
+      <pubDate>Fri, 25 Nov 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2016-27888226/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27888226/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27888226&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
-      <link>http://localhost:1313/publication/muller-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/muller-2016/</guid>
-      <description></description>
+      <title>SCell: integrated analysis of single-cell RNA-seq data.</title>
+      <link>http://localhost:1313/publication/diaz-2016-27153637/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/diaz-2016-27153637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27153637/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27153637&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>Single-cell analysis of long non-coding RNAs in the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/liu-2016-27081004/</link>
+      <pubDate>Thu, 14 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liu-2016-27081004/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27081004/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27081004&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells</title>
-      <link>http://localhost:1313/publication/ramos-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ramos-2015/</guid>
-      <description></description>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation</title>
-      <link>http://localhost:1313/publication/price-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/price-2014/</guid>
-      <description></description>
+      <title>The long noncoding RNA Pnky regulates neuronal differentiation of embryonic and postnatal neural stem cells.</title>
+      <link>http://localhost:1313/publication/ramos-2015-25800779/</link>
+      <pubDate>Thu, 02 Apr 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ramos-2015-25800779/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25800779/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25800779&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Ink4a/Arf locus is a barrier to direct neuronal transdifferentiation.</title>
+      <link>http://localhost:1313/publication/price-2014-25209293/</link>
+      <pubDate>Wed, 10 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/price-2014-25209293/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25209293/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25209293&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

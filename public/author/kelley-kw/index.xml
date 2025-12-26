@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/kelley-kw/</link>
       <atom:link href="http://localhost:1313/author/kelley-kw/index.xml" rel="self" type="application/rss+xml" />
     <description>Kelley KW</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kelley KW</title>
@@ -13,27 +13,39 @@
     </image>
     
     <item>
+      <title>Neurotoxic microglia promote TDP-43 proteinopathy in progranulin deficiency.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32866962/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32866962/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32866962/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32866962&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
-      <link>http://localhost:1313/publication/paredes-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2018/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/paredes-2018-30526879/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2018-30526879/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30526879/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30526879&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
-      <link>http://localhost:1313/publication/sorrells-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2018/</guid>
-      <description></description>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity.</title>
+      <link>http://localhost:1313/publication/raju-2018-28449024/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/raju-2018-28449024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28449024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28449024&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>http://localhost:1313/publication/raju-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/raju-2018/</guid>
-      <description></description>
+      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults.</title>
+      <link>http://localhost:1313/publication/sorrells-2018-29513649/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2018-29513649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29513649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29513649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

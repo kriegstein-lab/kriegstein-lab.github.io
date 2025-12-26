@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/wang-j/</link>
       <atom:link href="http://localhost:1313/author/wang-j/index.xml" rel="self" type="application/rss+xml" />
     <description>Wang J</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Wang J</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014/</guid>
-      <description></description>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex.</title>
+      <link>http://localhost:1313/publication/pollen-2014-25086649/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014-25086649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25086649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25086649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

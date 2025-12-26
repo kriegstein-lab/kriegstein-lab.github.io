@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/kriegstein-a/</link>
       <atom:link href="http://localhost:1313/author/kriegstein-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Kriegstein A</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kriegstein A</title>
@@ -13,251 +13,347 @@
     </image>
     
     <item>
-      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2025/</guid>
-      <description></description>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex</title>
-      <link>http://localhost:1313/publication/liang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2024/</guid>
-      <description></description>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/zhang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2024/</guid>
-      <description></description>
+      <title>The commitment of the human cell atlas to humanity.</title>
+      <link>http://localhost:1313/publication/amit-2024-39567491/</link>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/amit-2024-39567491/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39567491/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39567491&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The commitment of the human cell atlas to humanity</title>
-      <link>http://localhost:1313/publication/amit-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/amit-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>ACVR1-activating mutation causes neuropathic pain and sensory neuron hyperexcitability in humans</title>
-      <link>http://localhost:1313/publication/yu-2023/</link>
+      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex.</title>
+      <link>http://localhost:1313/publication/liang-2024-38713624/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2024-38713624/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38713624/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;38713624&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy.</title>
+      <link>http://localhost:1313/publication/bershteyn-2023-37802038/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2023-37802038/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37802038/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37802038&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Machine learning dissection of human accelerated regions in primate neurodevelopment.</title>
+      <link>http://localhost:1313/publication/whalen-2023-36640767/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/whalen-2023-36640767/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36640767/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36640767&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>ACVR1-activating mutation causes neuropathic pain and sensory neuron hyperexcitability in humans.</title>
+      <link>http://localhost:1313/publication/yu-2023-35442931/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/yu-2023/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/yu-2023-35442931/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35442931/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35442931&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy</title>
-      <link>http://localhost:1313/publication/bershteyn-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/bershteyn-2023/</guid>
-      <description></description>
+      <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation.</title>
+      <link>http://localhost:1313/publication/petrus-reurer-2022-35705015/</link>
+      <pubDate>Tue, 14 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/petrus-reurer-2022-35705015/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35705015/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35705015&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Machine learning dissection of human accelerated regions in primate neurodevelopment</title>
-      <link>http://localhost:1313/publication/whalen-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/whalen-2023/</guid>
-      <description></description>
+      <title>Diversifying stem cell debates: Including Muslim contexts and perspectives.</title>
+      <link>http://localhost:1313/publication/dajani-2022-35395176/</link>
+      <pubDate>Tue, 10 May 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/dajani-2022-35395176/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35395176/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35395176&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
-      <link>http://localhost:1313/publication/perez-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/perez-2023/</guid>
-      <description></description>
+      <title>Phospholipid-flippase chaperone CDC50A is required for synapse maintenance by regulating phosphatidylserine exposure.</title>
+      <link>http://localhost:1313/publication/li-2021-34585770/</link>
+      <pubDate>Tue, 02 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/li-2021-34585770/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34585770/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34585770&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Diversifying stem cell debates: Including Muslim contexts and perspectives</title>
-      <link>http://localhost:1313/publication/dajani-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/dajani-2022/</guid>
-      <description></description>
+      <title>A roadmap for the Human Developmental Cell Atlas.</title>
+      <link>http://localhost:1313/publication/haniffa-2021-34497388/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/haniffa-2021-34497388/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34497388/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34497388&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular profiling of stem cell-derived retinal pigment epithelial cell differentiation established for clinical translation</title>
-      <link>http://localhost:1313/publication/petrus-reurer-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/petrus-reurer-2022/</guid>
-      <description></description>
+      <title>Mitochondria Control Cortical Cell Fate after Mitosis.</title>
+      <link>http://localhost:1313/publication/wang-2020-33108754/</link>
+      <pubDate>Mon, 26 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2020-33108754/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33108754/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33108754&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A roadmap for the Human Developmental Cell Atlas</title>
-      <link>http://localhost:1313/publication/haniffa-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/haniffa-2021/</guid>
-      <description></description>
+      <title>Medulloblastoma Arises from the Persistence of a Rare and Transient Sox2(&#43;) Granule Neuron Precursor.</title>
+      <link>http://localhost:1313/publication/selvadurai-2020-32294450/</link>
+      <pubDate>Tue, 14 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/selvadurai-2020-32294450/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32294450/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32294450&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Phospholipid-flippase chaperone CDC50A is required for synapse maintenance by regulating phosphatidylserine exposure</title>
-      <link>http://localhost:1313/publication/li-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/li-2021/</guid>
-      <description></description>
+      <title>The Phenotypes of Proliferating Glioblastoma Cells Reside on a Single Axis of Variation.</title>
+      <link>http://localhost:1313/publication/wang-2019-31554641/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2019-31554641/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31554641/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31554641&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Medulloblastoma Arises from the Persistence of a Rare and Transient Sox2(&#43;) Granule Neuron Precursor</title>
-      <link>http://localhost:1313/publication/selvadurai-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/selvadurai-2020/</guid>
-      <description></description>
+      <title>New insights into the development of the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/molnar-2019-31373394/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/molnar-2019-31373394/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31373394/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31373394&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Mitochondria Control Cortical Cell Fate after Mitosis</title>
-      <link>http://localhost:1313/publication/wang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2020/</guid>
-      <description></description>
+      <title>Shared and derived features of cellular diversity in the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/miller-2019-30677551/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/miller-2019-30677551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30677551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30677551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>New insights into the development of the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/molnar-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molnar-2019/</guid>
-      <description></description>
+      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis.</title>
+      <link>http://localhost:1313/publication/fiddes-2018-29856954/</link>
+      <pubDate>Thu, 31 May 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fiddes-2018-29856954/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29856954/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29856954&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Shared and derived features of cellular diversity in the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/miller-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/miller-2019/</guid>
-      <description></description>
+      <title>The Human Cell Atlas.</title>
+      <link>http://localhost:1313/publication/regev-2017-29206104/</link>
+      <pubDate>Tue, 05 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/regev-2017-29206104/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29206104/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29206104&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Phenotypes of Proliferating Glioblastoma Cells Reside on a Single Axis of Variation</title>
-      <link>http://localhost:1313/publication/wang-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2019/</guid>
-      <description></description>
+      <title>oRGs and mitotic somal translocation - a role in development and disease.</title>
+      <link>http://localhost:1313/publication/ostrem-2017-27978479/</link>
+      <pubDate>Wed, 01 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ostrem-2017-27978479/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27978479/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27978479&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis</title>
-      <link>http://localhost:1313/publication/fiddes-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fiddes-2018/</guid>
-      <description></description>
+      <title>SCell: integrated analysis of single-cell RNA-seq data.</title>
+      <link>http://localhost:1313/publication/diaz-2016-27153637/</link>
+      <pubDate>Fri, 15 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/diaz-2016-27153637/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27153637/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27153637&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>oRGs and mitotic somal translocation - a role in development and disease</title>
-      <link>http://localhost:1313/publication/ostrem-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ostrem-2017/</guid>
-      <description></description>
+      <title>Axonal control of the adult neural stem cell niche.</title>
+      <link>http://localhost:1313/publication/tong-2014-24561083/</link>
+      <pubDate>Thu, 03 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tong-2014-24561083/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24561083/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24561083&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The Human Cell Atlas</title>
-      <link>http://localhost:1313/publication/regev-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/regev-2017/</guid>
-      <description></description>
+      <title>Forebrain GABAergic neuron precursors integrate into adult spinal cord and reduce injury-induced neuropathic pain.</title>
+      <link>http://localhost:1313/publication/braz-2012-22632725/</link>
+      <pubDate>Thu, 24 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/braz-2012-22632725/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22632725/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22632725&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>SCell: integrated analysis of single-cell RNA-seq data</title>
-      <link>http://localhost:1313/publication/diaz-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/diaz-2016/</guid>
-      <description></description>
+      <title>Research ethics. NIH guidelines for stem cell research and gamete donors.</title>
+      <link>http://localhost:1313/publication/lo-2010-20167773/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2010-20167773/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20167773/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20167773&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Axonal control of the adult neural stem cell niche</title>
-      <link>http://localhost:1313/publication/tong-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tong-2014/</guid>
-      <description></description>
+      <title>Cloning mice and men: prohibiting the use of iPS cells for human reproductive cloning.</title>
+      <link>http://localhost:1313/publication/lo-2010-20085739/</link>
+      <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2010-20085739/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20085739/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20085739&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Forebrain GABAergic neuron precursors integrate into adult spinal cord and reduce injury-induced neuropathic pain</title>
-      <link>http://localhost:1313/publication/braz-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/braz-2012/</guid>
-      <description></description>
+      <title>A stem cell niche for intermediate progenitor cells of the embryonic cortex.</title>
+      <link>http://localhost:1313/publication/javaherian-2009-19346271/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/javaherian-2009-19346271/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19346271/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19346271&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cloning mice and men: prohibiting the use of iPS cells for human reproductive cloning</title>
-      <link>http://localhost:1313/publication/lo-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2010/</guid>
-      <description></description>
+      <title>Importing human pluripotent stem cell lines derived at another institution: tailoring review to ethical concerns.</title>
+      <link>http://localhost:1313/publication/lo-2009-19200800/</link>
+      <pubDate>Fri, 06 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2009-19200800/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19200800/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19200800&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A stem cell niche for intermediate progenitor cells of the embryonic cortex</title>
-      <link>http://localhost:1313/publication/javaherian-2009/</link>
+      <title>The glial nature of embryonic and adult neural stem cells.</title>
+      <link>http://localhost:1313/publication/kriegstein-2009-19555289/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/javaherian-2009/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/kriegstein-2009-19555289/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19555289/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19555289&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Importing human pluripotent stem cell lines derived at another institution: tailoring review to ethical concerns</title>
-      <link>http://localhost:1313/publication/lo-2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2009/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clinical trials in stem cell transplantation: guidelines for scientific and ethical review</title>
-      <link>http://localhost:1313/publication/lo-2008/</link>
+      <title>Clinical trials in stem cell transplantation: guidelines for scientific and ethical review.</title>
+      <link>http://localhost:1313/publication/lo-2008-18827044/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2008/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/lo-2008-18827044/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18827044/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18827044&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>In utero intraventricular injection and electroporation of E16 rat embryos</title>
-      <link>http://localhost:1313/publication/walantus-2007/</link>
+      <title>In utero intraventricular injection and electroporation of E15 mouse embryos.</title>
+      <link>http://localhost:1313/publication/walantus-2007-18997887/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/walantus-2007/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/walantus-2007-18997887/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18997887/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18997887&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Patterns of neural stem and progenitor cell division may underlie evolutionary cortical expansion</title>
-      <link>http://localhost:1313/publication/kriegstein-2006/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/kriegstein-2006/</guid>
-      <description></description>
+      <title>In utero intraventricular injection and electroporation of E16 rat embryos.</title>
+      <link>http://localhost:1313/publication/walantus-2007-18997884/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/walantus-2007-18997884/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18997884/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18997884&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cortical development: new concepts</title>
-      <link>http://localhost:1313/publication/fishell-2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fishell-2005/</guid>
-      <description></description>
+      <title>Organotypic slice culture of E18 rat brains.</title>
+      <link>http://localhost:1313/publication/elias-2007-18997883/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2007-18997883/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18997883/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18997883&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The temporal and spatial origins of cortical interneurons predict their physiological subtype</title>
-      <link>http://localhost:1313/publication/butt-2005/</link>
-      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/butt-2005/</guid>
-      <description></description>
+      <title>Patterns of neural stem and progenitor cell division may underlie evolutionary cortical expansion.</title>
+      <link>http://localhost:1313/publication/kriegstein-2006-17033683/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2006-17033683/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17033683/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;17033683&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Progress in corticogenesis.</title>
+      <link>http://localhost:1313/publication/kriegstein-2006-16766695/</link>
+      <pubDate>Sat, 01 Jul 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2006-16766695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16766695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16766695&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The temporal and spatial origins of cortical interneurons predict their physiological subtype.</title>
+      <link>http://localhost:1313/publication/butt-2005-16301176/</link>
+      <pubDate>Wed, 23 Nov 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/butt-2005-16301176/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/16301176/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;16301176&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cortical development: new concepts.</title>
+      <link>http://localhost:1313/publication/fishell-2005-15882631/</link>
+      <pubDate>Thu, 05 May 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fishell-2005-15882631/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/15882631/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;15882631&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Changing concepts of cortical development.</title>
+      <link>http://localhost:1313/publication/kriegstein-2003-12764026/</link>
+      <pubDate>Sun, 01 Jun 2003 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2003-12764026/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/12764026/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;12764026&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

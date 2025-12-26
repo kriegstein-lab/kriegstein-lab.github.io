@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/goldman-je/</link>
       <atom:link href="http://localhost:1313/author/goldman-je/index.xml" rel="self" type="application/rss+xml" />
     <description>Goldman JE</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2008 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Goldman JE</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
-      <link>http://localhost:1313/publication/milosevic-2008/</link>
-      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/milosevic-2008/</guid>
-      <description></description>
+      <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation.</title>
+      <link>http://localhost:1313/publication/milosevic-2008-18718868/</link>
+      <pubDate>Sat, 01 Nov 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/milosevic-2008-18718868/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18718868/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18718868&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

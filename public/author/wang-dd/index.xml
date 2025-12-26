@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/wang-dd/</link>
       <atom:link href="http://localhost:1313/author/wang-dd/index.xml" rel="self" type="application/rss+xml" />
     <description>Wang DD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2011 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Wang DD</title>
@@ -13,35 +13,48 @@
     </image>
     
     <item>
-      <title>Blocking early GABA depolarization with bumetanide results in permanent alterations in cortical circuits and sensorimotor gating deficits</title>
-      <link>http://localhost:1313/publication/wang-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2011/</guid>
-      <description></description>
+      <title>Blocking early GABA depolarization with bumetanide results in permanent alterations in cortical circuits and sensorimotor gating deficits.</title>
+      <link>http://localhost:1313/publication/wang-2011-20624842/</link>
+      <pubDate>Tue, 01 Mar 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2011-20624842/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20624842/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20624842&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Defining the role of GABA in cortical development</title>
-      <link>http://localhost:1313/publication/wang-2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2009/</guid>
-      <description></description>
+      <title>Defining the role of GABA in cortical development.</title>
+      <link>http://localhost:1313/publication/wang-2009-19153158/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2009-19153158/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19153158/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19153158&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>GABA regulates excitatory synapse formation in the neocortex via NMDA receptor activation</title>
-      <link>http://localhost:1313/publication/wang-2008/</link>
+      <title>GABA regulates excitatory synapse formation in the neocortex via NMDA receptor activation.</title>
+      <link>http://localhost:1313/publication/wang-2008-18495889/</link>
+      <pubDate>Wed, 21 May 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2008-18495889/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18495889/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18495889&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>GABA regulates stem cell proliferation before nervous system formation.</title>
+      <link>http://localhost:1313/publication/wang-2008-18852839/</link>
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2008/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/wang-2008-18852839/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18852839/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18852839&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Gap junction adhesion is necessary for radial migration in the neocortex</title>
-      <link>http://localhost:1313/publication/elias-2007/</link>
-      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/elias-2007/</guid>
-      <description></description>
+      <title>Gap junction adhesion is necessary for radial migration in the neocortex.</title>
+      <link>http://localhost:1313/publication/elias-2007-17713529/</link>
+      <pubDate>Thu, 23 Aug 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/elias-2007-17713529/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/17713529/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;17713529&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

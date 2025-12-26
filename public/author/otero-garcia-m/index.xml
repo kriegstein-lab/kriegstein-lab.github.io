@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Otero-Garcia M | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/otero-garcia-m/</link>
+      <atom:link href="http://localhost:1313/author/otero-garcia-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Otero-Garcia M</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Otero-Garcia M</title>
+      <link>http://localhost:1313/author/otero-garcia-m/</link>
+    </image>
+    
+    <item>
+      <title>An atlas of cortical arealization identifies dynamic molecular signatures.</title>
+      <link>http://localhost:1313/publication/bhaduri-2021-34616070/</link>
+      <pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bhaduri-2021-34616070/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34616070/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34616070&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

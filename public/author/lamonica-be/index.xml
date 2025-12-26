@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/lamonica-be/</link>
       <atom:link href="http://localhost:1313/author/lamonica-be/index.xml" rel="self" type="application/rss+xml" />
     <description>LaMonica BE</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Feb 2014 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>LaMonica BE</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>http://localhost:1313/publication/gertz-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2014/</guid>
-      <description></description>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex.</title>
+      <link>http://localhost:1313/publication/gertz-2014-24523546/</link>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gertz-2014-24523546/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24523546/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24523546&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex</title>
-      <link>http://localhost:1313/publication/la-monica-2013/</link>
+      <title>Mitotic spindle orientation predicts outer radial glial cell generation in human neocortex.</title>
+      <link>http://localhost:1313/publication/lamonica-2013-23575669/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/la-monica-2013/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/lamonica-2013-23575669/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23575669/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23575669&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
-      <link>http://localhost:1313/publication/la-monica-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/la-monica-2012/</guid>
-      <description></description>
+      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease.</title>
+      <link>http://localhost:1313/publication/lamonica-2012-22487088/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lamonica-2012-22487088/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22487088/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22487088&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

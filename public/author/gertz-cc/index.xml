@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/gertz-cc/</link>
       <atom:link href="http://localhost:1313/author/gertz-cc/index.xml" rel="self" type="application/rss+xml" />
     <description>Gertz CC</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 21 Oct 2015 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gertz CC</title>
@@ -13,35 +13,39 @@
     </image>
     
     <item>
-      <title>Neuronal Migration Dynamics in the Developing Ferret Cortex</title>
-      <link>http://localhost:1313/publication/gertz-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2015/</guid>
-      <description></description>
+      <title>Neuronal Migration Dynamics in the Developing Ferret Cortex.</title>
+      <link>http://localhost:1313/publication/gertz-2015-26490868/</link>
+      <pubDate>Wed, 21 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gertz-2015-26490868/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26490868/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26490868&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons</title>
-      <link>http://localhost:1313/publication/harwell-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/harwell-2015/</guid>
-      <description></description>
+      <title>Wide Dispersion and Diversity of Clonally Related Inhibitory Interneurons.</title>
+      <link>http://localhost:1313/publication/harwell-2015-26299474/</link>
+      <pubDate>Wed, 02 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/harwell-2015-26299474/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26299474/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26299474&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Control of outer radial glial stem cell mitosis in the human brain</title>
-      <link>http://localhost:1313/publication/ostrem-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ostrem-2014/</guid>
-      <description></description>
+      <title>Control of outer radial glial stem cell mitosis in the human brain.</title>
+      <link>http://localhost:1313/publication/ostrem-2014-25088420/</link>
+      <pubDate>Thu, 07 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ostrem-2014-25088420/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25088420/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25088420&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>http://localhost:1313/publication/gertz-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2014/</guid>
-      <description></description>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex.</title>
+      <link>http://localhost:1313/publication/gertz-2014-24523546/</link>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gertz-2014-24523546/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24523546/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24523546&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

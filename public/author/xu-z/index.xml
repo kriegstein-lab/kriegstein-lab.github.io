@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/xu-z/</link>
       <atom:link href="http://localhost:1313/author/xu-z/index.xml" rel="self" type="application/rss+xml" />
     <description>Xu Z</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 31 Mar 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Xu Z</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog</title>
-      <link>http://localhost:1313/publication/zhang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2020/</guid>
-      <description></description>
+      <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32234482/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32234482/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32234482/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32234482&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

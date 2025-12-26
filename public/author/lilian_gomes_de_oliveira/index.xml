@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lilian_Gomes_de_Oliveira | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/lilian_gomes_de_oliveira/</link>
+      <atom:link href="http://localhost:1313/author/lilian_gomes_de_oliveira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lilian_Gomes_de_Oliveira</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Lilian_Gomes_de_Oliveira</title>
+      <link>http://localhost:1313/author/lilian_gomes_de_oliveira/</link>
+    </image>
+    
+  </channel>
+</rss>

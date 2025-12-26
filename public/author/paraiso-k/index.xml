@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/paraiso-k/</link>
       <atom:link href="http://localhost:1313/author/paraiso-k/index.xml" rel="self" type="application/rss+xml" />
     <description>Paraiso K</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Paraiso K</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex</title>
-      <link>http://localhost:1313/publication/liang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2024/</guid>
-      <description></description>
+      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex.</title>
+      <link>http://localhost:1313/publication/liang-2024-38713624/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2024-38713624/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38713624/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;38713624&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

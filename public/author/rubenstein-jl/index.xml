@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/rubenstein-jl/</link>
       <atom:link href="http://localhost:1313/author/rubenstein-jl/index.xml" rel="self" type="application/rss+xml" />
     <description>Rubenstein JL</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Rubenstein JL</title>
@@ -13,107 +13,120 @@
     </image>
     
     <item>
-      <title>Machine learning dissection of human accelerated regions in primate neurodevelopment</title>
-      <link>http://localhost:1313/publication/whalen-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/whalen-2023/</guid>
-      <description></description>
+      <title>Machine learning dissection of human accelerated regions in primate neurodevelopment.</title>
+      <link>http://localhost:1313/publication/whalen-2023-36640767/</link>
+      <pubDate>Wed, 15 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/whalen-2023-36640767/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36640767/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36640767&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon</title>
-      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020/</guid>
-      <description></description>
+      <title>A Chromatin Accessibility Atlas of the Developing Human Telencephalon.</title>
+      <link>http://localhost:1313/publication/markenscoff-papadimitriou-2020-32610082/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/markenscoff-papadimitriou-2020-32610082/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32610082/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32610082&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog</title>
-      <link>http://localhost:1313/publication/zhang-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2020/</guid>
-      <description></description>
+      <title>Cortical Neural Stem Cell Lineage Progression Is Regulated by Extrinsic Signaling Molecule Sonic Hedgehog.</title>
+      <link>http://localhost:1313/publication/zhang-2020-32234482/</link>
+      <pubDate>Tue, 31 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2020-32234482/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32234482/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32234482&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>http://localhost:1313/publication/sorrells-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2019/</guid>
-      <description></description>
+      <title>Immature excitatory neurons develop during adolescence in the human amygdala.</title>
+      <link>http://localhost:1313/publication/sorrells-2019-31227709/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2019-31227709/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31227709/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31227709&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/werling-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/werling-2018/</guid>
-      <description></description>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity.</title>
+      <link>http://localhost:1313/publication/raju-2018-28449024/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/raju-2018-28449024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28449024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28449024&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>http://localhost:1313/publication/raju-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/raju-2018/</guid>
-      <description></description>
+      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder.</title>
+      <link>http://localhost:1313/publication/werling-2018-29700473/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/werling-2018-29700473/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29700473/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29700473&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Interneurons from embryonic development to cell-based therapy</title>
-      <link>http://localhost:1313/publication/southwell-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/southwell-2014/</guid>
-      <description></description>
+      <title>Interneurons from embryonic development to cell-based therapy.</title>
+      <link>http://localhost:1313/publication/southwell-2014-24723614/</link>
+      <pubDate>Fri, 11 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/southwell-2014-24723614/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24723614/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24723614&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A high-resolution enhancer atlas of the developing telencephalon</title>
-      <link>http://localhost:1313/publication/visel-2013/</link>
+      <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences.</title>
+      <link>http://localhost:1313/publication/hansen-2013-24097039/</link>
+      <pubDate>Fri, 01 Nov 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hansen-2013-24097039/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24097039/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24097039&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development.</title>
+      <link>http://localhost:1313/publication/nicholas-2013-23642366/</link>
+      <pubDate>Thu, 02 May 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nicholas-2013-23642366/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23642366/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23642366&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A high-resolution enhancer atlas of the developing telencephalon.</title>
+      <link>http://localhost:1313/publication/visel-2013-23375746/</link>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/visel-2013-23375746/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23375746/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23375746&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use of &#34;MGE enhancers&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons.</title>
+      <link>http://localhost:1313/publication/chen-2013-23658702/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/visel-2013/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/chen-2013-23658702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23658702/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23658702&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Functional maturation of hPSC-derived forebrain interneurons requires an extended timeline and mimics human neural development</title>
-      <link>http://localhost:1313/publication/nicholas-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nicholas-2013/</guid>
-      <description></description>
+      <title>Forebrain GABAergic neuron precursors integrate into adult spinal cord and reduce injury-induced neuropathic pain.</title>
+      <link>http://localhost:1313/publication/braz-2012-22632725/</link>
+      <pubDate>Thu, 24 May 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/braz-2012-22632725/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22632725/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22632725&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Non-epithelial stem cells and cortical interneuron production in the human ganglionic eminences</title>
-      <link>http://localhost:1313/publication/hansen-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hansen-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Use of \&#34;MGE enhancers\&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons</title>
-      <link>http://localhost:1313/publication/chen-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2013/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Forebrain GABAergic neuron precursors integrate into adult spinal cord and reduce injury-induced neuropathic pain</title>
-      <link>http://localhost:1313/publication/braz-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/braz-2012/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deriving excitatory neurons of the neocortex from pluripotent stem cells</title>
-      <link>http://localhost:1313/publication/hansen-2011/</link>
-      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/hansen-2011/</guid>
-      <description></description>
+      <title>Deriving excitatory neurons of the neocortex from pluripotent stem cells.</title>
+      <link>http://localhost:1313/publication/hansen-2011-21609822/</link>
+      <pubDate>Thu, 26 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/hansen-2011-21609822/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21609822/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21609822&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

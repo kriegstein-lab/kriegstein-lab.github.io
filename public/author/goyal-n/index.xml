@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/goyal-n/</link>
       <atom:link href="http://localhost:1313/author/goyal-n/index.xml" rel="self" type="application/rss+xml" />
     <description>Goyal N</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Goyal N</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
-      <link>http://localhost:1313/publication/schirmer-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
-      <description></description>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis.</title>
+      <link>http://localhost:1313/publication/schirmer-2019-31316211/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019-31316211/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31316211/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31316211&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
-      <link>http://localhost:1313/publication/velmeshev-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
-      <description></description>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/velmeshev-2019-31097668/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019-31097668/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31097668/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31097668&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

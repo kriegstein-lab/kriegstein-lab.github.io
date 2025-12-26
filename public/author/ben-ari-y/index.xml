@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben-Ari Y | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/ben-ari-y/</link>
+      <atom:link href="http://localhost:1313/author/ben-ari-y/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben-Ari Y</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Ben-Ari Y</title>
+      <link>http://localhost:1313/author/ben-ari-y/</link>
+    </image>
+    
+    <item>
+      <title>GABA regulates stem cell proliferation before nervous system formation.</title>
+      <link>http://localhost:1313/publication/wang-2008-18852839/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2008-18852839/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/18852839/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;18852839&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/cole-ma/</link>
       <atom:link href="http://localhost:1313/author/cole-ma/index.xml" rel="self" type="application/rss+xml" />
     <description>Cole MA</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Cole MA</title>
@@ -13,19 +13,22 @@
     </image>
     
     <item>
-      <title>Spatial 3D genome organization controls the activity of bivalent chromatin during human neurogenesis</title>
-      <link>http://localhost:1313/publication/ahanger-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2024/</guid>
-      <description></description>
+      <title>Spatial 3D genome organization controls the activity of bivalent chromatin during human neurogenesis.</title>
+      <link>http://localhost:1313/publication/ahanger-2024-39131314/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2024-39131314/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131314/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131314&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
-      <link>http://localhost:1313/publication/ahanger-2021/</link>
-      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ahanger-2021/</guid>
-      <description></description>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain.</title>
+      <link>http://localhost:1313/publication/ahanger-2021-34239128/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2021-34239128/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/34239128/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;34239128&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

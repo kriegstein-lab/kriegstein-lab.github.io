@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/gemenes-k/</link>
       <atom:link href="http://localhost:1313/author/gemenes-k/index.xml" rel="self" type="application/rss+xml" />
     <description>Gemenes K</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 05 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Gemenes K</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development</title>
-      <link>http://localhost:1313/publication/andrews-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2023/</guid>
-      <description></description>
+      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development.</title>
+      <link>http://localhost:1313/publication/andrews-2023-37673072/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2023-37673072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37673072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37673072&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

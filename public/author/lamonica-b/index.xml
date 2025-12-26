@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LaMonica B | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/lamonica-b/</link>
+      <atom:link href="http://localhost:1313/author/lamonica-b/index.xml" rel="self" type="application/rss+xml" />
+    <description>LaMonica B</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 May 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>LaMonica B</title>
+      <link>http://localhost:1313/author/lamonica-b/</link>
+    </image>
+    
+    <item>
+      <title>A new subtype of progenitor cell in the mouse embryonic neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2011-21478886/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2011-21478886/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21478886/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21478886&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

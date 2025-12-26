@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/shaohui-wang/</link>
       <atom:link href="http://localhost:1313/author/shaohui-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Shaohui Wang</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/shaohui-wang/avatar_hu_ef846297d001c9f.jpg</url>
       <title>Shaohui Wang</title>
@@ -13,11 +13,151 @@
     </image>
     
     <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Shaohui Wang</title>
       <link>http://localhost:1313/author/shaohui-wang/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/shaohui-wang/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2025-40615364/</link>
+      <pubDate>Fri, 04 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025-40615364/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40615364/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40615364&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/fan-2024-39184075/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-2024-39184075/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39184075/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39184075&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single-cell analysis of prenatal and postnatal human cortical development.</title>
+      <link>http://localhost:1313/publication/velmeshev-2023-37824647/</link>
+      <pubDate>Fri, 13 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2023-37824647/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37824647/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37824647&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development.</title>
+      <link>http://localhost:1313/publication/andrews-2023-37673072/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2023-37673072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37673072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37673072&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cross-species proteomic map reveals neoteny of human synapse development.</title>
+      <link>http://localhost:1313/publication/wang-2023-37704727/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2023-37704727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37704727/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37704727&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism.</title>
+      <link>http://localhost:1313/publication/perez-2023-37790331/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023-37790331/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37790331/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37790331&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for Developing Human Cortical Astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2021-33469577/</link>
+      <pubDate>Mon, 18 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2021-33469577/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33469577/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33469577&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Origins and Proliferative States of Human Oligodendrocyte Precursor Cells.</title>
+      <link>http://localhost:1313/publication/huang-2020-32679030/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/huang-2020-32679030/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32679030/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32679030&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex.</title>
+      <link>http://localhost:1313/publication/mayer-2019-30770253/</link>
+      <pubDate>Wed, 03 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019-30770253/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30770253/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30770253&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

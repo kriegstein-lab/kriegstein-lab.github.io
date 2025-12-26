@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/oldham-mc/</link>
       <atom:link href="http://localhost:1313/author/oldham-mc/index.xml" rel="self" type="application/rss+xml" />
     <description>Oldham MC</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Oldham MC</title>
@@ -13,59 +13,66 @@
     </image>
     
     <item>
-      <title>Proinflammatory immune cells disrupt angiogenesis and promote germinal matrix hemorrhage in prenatal human brain</title>
-      <link>http://localhost:1313/publication/chen-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2024/</guid>
-      <description></description>
+      <title>Proinflammatory immune cells disrupt angiogenesis and promote germinal matrix hemorrhage in prenatal human brain.</title>
+      <link>http://localhost:1313/publication/chen-2024-39349662/</link>
+      <pubDate>Fri, 01 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2024-39349662/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39349662/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39349662&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain</title>
-      <link>http://localhost:1313/publication/paredes-2022/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2022/</guid>
-      <description></description>
+      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain.</title>
+      <link>http://localhost:1313/publication/paredes-2022-35084970/</link>
+      <pubDate>Fri, 28 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2022-35084970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35084970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35084970&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
-      <link>http://localhost:1313/publication/paredes-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/paredes-2018/</guid>
-      <description></description>
+      <link>http://localhost:1313/publication/paredes-2018-30526879/</link>
+      <pubDate>Thu, 06 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2018-30526879/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30526879/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30526879&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
-      <link>http://localhost:1313/publication/sorrells-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2018/</guid>
-      <description></description>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity.</title>
+      <link>http://localhost:1313/publication/raju-2018-28449024/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/raju-2018-28449024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28449024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28449024&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>http://localhost:1313/publication/raju-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/raju-2018/</guid>
-      <description></description>
+      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults.</title>
+      <link>http://localhost:1313/publication/sorrells-2018-29513649/</link>
+      <pubDate>Thu, 15 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2018-29513649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29513649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29513649&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular identity of human outer radial glia during cortical development</title>
-      <link>http://localhost:1313/publication/pollen-2015/</link>
-      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2015/</guid>
-      <description></description>
+      <title>Molecular identity of human outer radial glia during cortical development.</title>
+      <link>http://localhost:1313/publication/pollen-2015-26406371/</link>
+      <pubDate>Thu, 24 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015-26406371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/26406371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;26406371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Radial glia require PDGFD-PDGFRbeta signalling in human but not mouse neocortex</title>
-      <link>http://localhost:1313/publication/lui-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lui-2014/</guid>
-      <description></description>
+      <title>Radial glia require PDGFD-PDGFRbeta signalling in human but not mouse neocortex.</title>
+      <link>http://localhost:1313/publication/lui-2014-25391964/</link>
+      <pubDate>Thu, 13 Nov 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lui-2014-25391964/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25391964/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25391964&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

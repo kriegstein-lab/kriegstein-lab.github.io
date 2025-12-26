@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/stanco-a/</link>
       <atom:link href="http://localhost:1313/author/stanco-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Stanco A</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jun 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Stanco A</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity</title>
-      <link>http://localhost:1313/publication/raju-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/raju-2018/</guid>
-      <description></description>
+      <title>Secretagogin is Expressed by Developing Neocortical GABAergic Neurons in Humans but not Mice and Increases Neurite Arbor Size and Complexity.</title>
+      <link>http://localhost:1313/publication/raju-2018-28449024/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/raju-2018-28449024/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28449024/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28449024&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

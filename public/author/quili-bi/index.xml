@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/quili-bi/</link>
       <atom:link href="http://localhost:1313/author/quili-bi/index.xml" rel="self" type="application/rss+xml" />
     <description>Quili Bi</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/quili-bi/avatar_hu_d9fc07f31c26eb25.jpg</url>
       <title>Quili Bi</title>
@@ -13,11 +13,49 @@
     </image>
     
     <item>
-      <title>Quili Bi</title>
-      <link>http://localhost:1313/author/quili-bi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/quili-bi/</guid>
-      <description></description>
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>LIF signaling regulates outer radial glial to interneuron fate during human cortical development.</title>
+      <link>http://localhost:1313/publication/andrews-2023-37673072/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2023-37673072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37673072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37673072&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cross-species proteomic map reveals neoteny of human synapse development.</title>
+      <link>http://localhost:1313/publication/wang-2023-37704727/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2023-37704727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37704727/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37704727&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

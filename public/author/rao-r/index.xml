@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rao R | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/rao-r/</link>
+      <atom:link href="http://localhost:1313/author/rao-r/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rao R</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Rao R</title>
+      <link>http://localhost:1313/author/rao-r/</link>
+    </image>
+    
+    <item>
+      <title>Research ethics. NIH guidelines for stem cell research and gamete donors.</title>
+      <link>http://localhost:1313/publication/lo-2010-20167773/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2010-20167773/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20167773/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20167773&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

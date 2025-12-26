@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/tanaka-em/</link>
       <atom:link href="http://localhost:1313/author/tanaka-em/index.xml" rel="self" type="application/rss+xml" />
     <description>Tanaka EM</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Tanaka EM</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Stem cells in the land of the rising sun: ISSCR 2012</title>
-      <link>http://localhost:1313/publication/plath-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/plath-2012/</guid>
-      <description></description>
+      <title>Stem cells in the land of the rising sun: ISSCR 2012.</title>
+      <link>http://localhost:1313/publication/plath-2012-23122288/</link>
+      <pubDate>Fri, 02 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/plath-2012-23122288/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23122288/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23122288&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

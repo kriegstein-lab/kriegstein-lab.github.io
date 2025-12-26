@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhang M | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/zhang-m/</link>
+      <atom:link href="http://localhost:1313/author/zhang-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhang M</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 14 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Zhang M</title>
+      <link>http://localhost:1313/author/zhang-m/</link>
+    </image>
+    
+    <item>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity.</title>
+      <link>http://localhost:1313/publication/chen-2013-23273878/</link>
+      <pubDate>Mon, 14 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2013-23273878/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23273878/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23273878&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

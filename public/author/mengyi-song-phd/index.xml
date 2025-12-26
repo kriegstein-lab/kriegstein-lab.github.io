@@ -5,12 +5,87 @@
     <link>http://localhost:1313/author/mengyi-song-phd/</link>
       <atom:link href="http://localhost:1313/author/mengyi-song-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyi Song, PhD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/mengyi-song-phd/avatar_hu_e3145482d02282fe.png</url>
       <title>Mengyi Song, PhD</title>
       <link>http://localhost:1313/author/mengyi-song-phd/</link>
     </image>
+    
+    <item>
+      <title>Mengyi Song, PhD</title>
+      <link>http://localhost:1313/author/mengyi-song-phd/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/mengyi-song-phd/</guid>
+      <description>&lt;p&gt;Mengyi is interested in how cells with the same genetic material diversify into specialized cell types. Previously, she was trained in developmental biology and function genomics with a focus of early cardiac lineage during her PhD. Now in the Kriegstein lab, she hopes to apply cutting-edge genomics approaches to understand gene regulation in cell fate specification during brain development and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The new frontier in understanding human and mammalian brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2025-41193845/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2025-41193845/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193845/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193845&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/fan-2024-39184075/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-2024-39184075/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39184075/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39184075&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cell-type-specific 3D epigenomes in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/song-2020-33057195/</link>
+      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/song-2020-33057195/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/33057195/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;33057195&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

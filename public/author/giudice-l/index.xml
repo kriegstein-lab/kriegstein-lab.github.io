@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/giudice-l/</link>
       <atom:link href="http://localhost:1313/author/giudice-l/index.xml" rel="self" type="application/rss+xml" />
     <description>Giudice L</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 19 Feb 2010 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Giudice L</title>
@@ -13,19 +13,30 @@
     </image>
     
     <item>
-      <title>Cloning mice and men: prohibiting the use of iPS cells for human reproductive cloning</title>
-      <link>http://localhost:1313/publication/lo-2010/</link>
-      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2010/</guid>
-      <description></description>
+      <title>Research ethics. NIH guidelines for stem cell research and gamete donors.</title>
+      <link>http://localhost:1313/publication/lo-2010-20167773/</link>
+      <pubDate>Fri, 19 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2010-20167773/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20167773/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20167773&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Importing human pluripotent stem cell lines derived at another institution: tailoring review to ethical concerns</title>
-      <link>http://localhost:1313/publication/lo-2009/</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/lo-2009/</guid>
-      <description></description>
+      <title>Cloning mice and men: prohibiting the use of iPS cells for human reproductive cloning.</title>
+      <link>http://localhost:1313/publication/lo-2010-20085739/</link>
+      <pubDate>Fri, 08 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2010-20085739/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/20085739/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;20085739&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Importing human pluripotent stem cell lines derived at another institution: tailoring review to ethical concerns.</title>
+      <link>http://localhost:1313/publication/lo-2009-19200800/</link>
+      <pubDate>Fri, 06 Feb 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2009-19200800/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/19200800/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;19200800&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

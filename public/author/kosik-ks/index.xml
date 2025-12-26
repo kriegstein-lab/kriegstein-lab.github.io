@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/kosik-ks/</link>
       <atom:link href="http://localhost:1313/author/kosik-ks/index.xml" rel="self" type="application/rss+xml" />
     <description>Kosik KS</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Kosik KS</title>
@@ -13,19 +13,21 @@
     </image>
     
     <item>
-      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2018/</guid>
-      <description></description>
+      <title>Regulation of cell-type-specific transcriptomes by microRNA networks during human brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2018-30455455/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2018-30455455/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30455455/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30455455&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA</title>
-      <link>http://localhost:1313/publication/rani-2016/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/rani-2016/</guid>
-      <description></description>
+      <title>A Primate lncRNA Mediates Notch Signaling during Neuronal Development by Sequestering miRNA.</title>
+      <link>http://localhost:1313/publication/rani-2016-27263970/</link>
+      <pubDate>Wed, 15 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/rani-2016-27263970/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/27263970/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;27263970&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

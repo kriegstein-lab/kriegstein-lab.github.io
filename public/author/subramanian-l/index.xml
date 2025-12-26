@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/subramanian-l/</link>
       <atom:link href="http://localhost:1313/author/subramanian-l/index.xml" rel="self" type="application/rss+xml" />
     <description>Subramanian L</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Subramanian L</title>
@@ -13,19 +13,30 @@
     </image>
     
     <item>
-      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
-      <link>http://localhost:1313/publication/andrews-2020/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/andrews-2020/</guid>
-      <description></description>
+      <title>How mechanisms of stem cell polarity shape the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/andrews-2022-36180551/</link>
+      <pubDate>Thu, 01 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-36180551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/36180551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;36180551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
-      <link>http://localhost:1313/publication/subramanian-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/subramanian-2017/</guid>
-      <description></description>
+      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex.</title>
+      <link>http://localhost:1313/publication/andrews-2020-32876565/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2020-32876565/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/32876565/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;32876565&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain.</title>
+      <link>http://localhost:1313/publication/subramanian-2017-28139695/</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/subramanian-2017-28139695/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/28139695/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;28139695&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

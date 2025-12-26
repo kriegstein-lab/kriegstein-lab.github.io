@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/wang-x/</link>
       <atom:link href="http://localhost:1313/author/wang-x/index.xml" rel="self" type="application/rss+xml" />
     <description>Wang X</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Wang X</title>
@@ -13,43 +13,66 @@
     </image>
     
     <item>
-      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
-      <link>http://localhost:1313/publication/nowakowski-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
-      <description></description>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex.</title>
+      <link>http://localhost:1313/publication/nowakowski-2017-29217575/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017-29217575/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29217575/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29217575&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex</title>
-      <link>http://localhost:1313/publication/gertz-2014/</link>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex.</title>
+      <link>http://localhost:1313/publication/pollen-2014-25086649/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014-25086649/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/25086649/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;25086649&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Diverse behaviors of outer radial glia in developing ferret and human cortex.</title>
+      <link>http://localhost:1313/publication/gertz-2014-24523546/</link>
+      <pubDate>Wed, 12 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gertz-2014-24523546/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24523546/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24523546&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The dynamics of neuronal migration.</title>
+      <link>http://localhost:1313/publication/wu-2014-24243098/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gertz-2014/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/wu-2014-24243098/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/24243098/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;24243098&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
-      <link>http://localhost:1313/publication/pollen-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pollen-2014/</guid>
-      <description></description>
+      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease.</title>
+      <link>http://localhost:1313/publication/lamonica-2012-22487088/</link>
+      <pubDate>Mon, 01 Oct 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lamonica-2012-22487088/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22487088/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22487088&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The dynamics of neuronal migration</title>
-      <link>http://localhost:1313/publication/wu-2014/</link>
-      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wu-2014/</guid>
-      <description></description>
+      <title>Orienting fate: spatial regulation of neurogenic divisions.</title>
+      <link>http://localhost:1313/publication/wang-2011-22017981/</link>
+      <pubDate>Thu, 20 Oct 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2011-22017981/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/22017981/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;22017981&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>OSVZ progenitors in the human cortex: an updated perspective on neurodevelopmental disease</title>
-      <link>http://localhost:1313/publication/la-monica-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/la-monica-2012/</guid>
-      <description></description>
+      <title>A new subtype of progenitor cell in the mouse embryonic neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2011-21478886/</link>
+      <pubDate>Sun, 01 May 2011 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2011-21478886/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/21478886/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;21478886&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

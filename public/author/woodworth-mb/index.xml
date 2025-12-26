@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/woodworth-mb/</link>
       <atom:link href="http://localhost:1313/author/woodworth-mb/index.xml" rel="self" type="application/rss+xml" />
     <description>Woodworth MB</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 09 Nov 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Woodworth MB</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>SnapShot: cortical development</title>
-      <link>http://localhost:1313/publication/woodworth-2012/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/woodworth-2012/</guid>
-      <description></description>
+      <title>SnapShot: cortical development.</title>
+      <link>http://localhost:1313/publication/woodworth-2012-23141546/</link>
+      <pubDate>Fri, 09 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/woodworth-2012-23141546/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23141546/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23141546&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

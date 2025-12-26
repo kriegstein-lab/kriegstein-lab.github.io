@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/sestan-n/</link>
       <atom:link href="http://localhost:1313/author/sestan-n/index.xml" rel="self" type="application/rss+xml" />
     <description>Sestan N</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Sestan N</title>
@@ -13,59 +13,86 @@
     </image>
     
     <item>
-      <title>The new frontier in understanding human and mammalian brain development</title>
-      <link>http://localhost:1313/publication/nowakowski-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nowakowski-2025/</guid>
-      <description></description>
+      <title>Spatial dynamics of brain development and neuroinflammation.</title>
+      <link>http://localhost:1313/publication/zhang-2025-41193846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025-41193846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193846&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/fan-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/fan-2024/</guid>
-      <description></description>
+      <title>The new frontier in understanding human and mammalian brain development.</title>
+      <link>http://localhost:1313/publication/nowakowski-2025-41193845/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2025-41193845/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/41193845/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;41193845&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping</title>
-      <link>http://localhost:1313/publication/zhang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhang-2024/</guid>
-      <description></description>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/fan-2024-39184075/</link>
+      <pubDate>Mon, 12 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fan-2024-39184075/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39184075/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39184075&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>New insights into the development of the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/molnar-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/molnar-2019/</guid>
-      <description></description>
+      <title>Spatial dynamics of mammalian brain development and neuroinflammation by multimodal tri-omics mapping.</title>
+      <link>http://localhost:1313/publication/zhang-2024-39091821/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2024-39091821/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39091821/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39091821&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Shared and derived features of cellular diversity in the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/miller-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/miller-2019/</guid>
-      <description></description>
+      <title>A cross-species proteomic map reveals neoteny of human synapse development.</title>
+      <link>http://localhost:1313/publication/wang-2023-37704727/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2023-37704727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37704727/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37704727&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder</title>
-      <link>http://localhost:1313/publication/werling-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/werling-2018/</guid>
-      <description></description>
+      <title>New insights into the development of the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/molnar-2019-31373394/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/molnar-2019-31373394/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31373394/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31373394&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>The BRAIN Initiative Cell Census Consortium: Lessons Learned toward Generating a Comprehensive Brain Cell Atlas</title>
-      <link>http://localhost:1313/publication/ecker-2017/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/ecker-2017/</guid>
-      <description></description>
+      <title>Shared and derived features of cellular diversity in the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/miller-2019-30677551/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/miller-2019-30677551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30677551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30677551&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An analytical framework for whole-genome sequence association studies and its implications for autism spectrum disorder.</title>
+      <link>http://localhost:1313/publication/werling-2018-29700473/</link>
+      <pubDate>Thu, 26 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/werling-2018-29700473/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29700473/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29700473&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The BRAIN Initiative Cell Census Consortium: Lessons Learned toward Generating a Comprehensive Brain Cell Atlas.</title>
+      <link>http://localhost:1313/publication/ecker-2017-29096072/</link>
+      <pubDate>Wed, 01 Nov 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ecker-2017-29096072/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/29096072/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;29096072&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

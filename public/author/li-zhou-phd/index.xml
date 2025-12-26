@@ -5,12 +5,66 @@
     <link>http://localhost:1313/author/li-zhou-phd/</link>
       <atom:link href="http://localhost:1313/author/li-zhou-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Li Zhou, PhD</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/li-zhou-phd/avatar_hu_abc15971102f996e.png</url>
       <title>Li Zhou, PhD</title>
       <link>http://localhost:1313/author/li-zhou-phd/</link>
     </image>
+    
+    <item>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex.</title>
+      <link>http://localhost:1313/publication/mukhtar-2025-40593693/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025-40593693/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40593693/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40593693&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Li Zhou, PhD</title>
+      <link>http://localhost:1313/author/li-zhou-phd/</link>
+      <pubDate>Tue, 01 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/li-zhou-phd/</guid>
+      <description>&lt;p&gt;Dr. Zhou is interested in dissecting human brain circuit development. During his Ph.D., he found a new &amp;ldquo;push-pull&amp;rdquo; circuit mechanism to control the E-I balance of rodent serotonin neurons: individual cells could receive excitation and inhibition inputs from the same brain area. As a postdoc, he studies how early cortical circuits form in the human brain and their interaction with the brain microenvironments.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fate plasticity of interneuron specification.</title>
+      <link>http://localhost:1313/publication/mostajo-radji-2025-40264797/</link>
+      <pubDate>Fri, 18 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mostajo-radji-2025-40264797/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40264797/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40264797&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy.</title>
+      <link>http://localhost:1313/publication/bershteyn-2023-37802038/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2023-37802038/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37802038/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37802038&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A cross-species proteomic map reveals neoteny of human synapse development.</title>
+      <link>http://localhost:1313/publication/wang-2023-37704727/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2023-37704727/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37704727/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37704727&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes.</title>
+      <link>http://localhost:1313/publication/andrews-2022-35858406/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022-35858406/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/35858406/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;35858406&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

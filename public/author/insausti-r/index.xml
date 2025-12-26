@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/insausti-r/</link>
       <atom:link href="http://localhost:1313/author/insausti-r/index.xml" rel="self" type="application/rss+xml" />
     <description>Insausti R</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 21 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Insausti R</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
-      <link>http://localhost:1313/publication/sorrells-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/sorrells-2019/</guid>
-      <description></description>
+      <title>Immature excitatory neurons develop during adolescence in the human amygdala.</title>
+      <link>http://localhost:1313/publication/sorrells-2019-31227709/</link>
+      <pubDate>Fri, 21 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2019-31227709/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/31227709/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;31227709&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

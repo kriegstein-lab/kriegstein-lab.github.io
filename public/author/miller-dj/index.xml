@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/miller-dj/</link>
       <atom:link href="http://localhost:1313/author/miller-dj/index.xml" rel="self" type="application/rss+xml" />
     <description>Miller DJ</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Miller DJ</title>
@@ -13,11 +13,12 @@
     </image>
     
     <item>
-      <title>Shared and derived features of cellular diversity in the human cerebral cortex</title>
-      <link>http://localhost:1313/publication/miller-2019/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/miller-2019/</guid>
-      <description></description>
+      <title>Shared and derived features of cellular diversity in the human cerebral cortex.</title>
+      <link>http://localhost:1313/publication/miller-2019-30677551/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/miller-2019-30677551/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/30677551/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;30677551&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

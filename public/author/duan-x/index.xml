@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/duan-x/</link>
       <atom:link href="http://localhost:1313/author/duan-x/index.xml" rel="self" type="application/rss+xml" />
     <description>Duan X</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Nov 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Duan X</title>
@@ -13,51 +13,59 @@
     </image>
     
     <item>
-      <title>Molecular and cellular dynamics of the developing human neocortex</title>
-      <link>http://localhost:1313/publication/wang-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2025/</guid>
-      <description></description>
+      <title>Molecular and cellular dynamics of the developing human neocortex.</title>
+      <link>http://localhost:1313/publication/wang-2025-39779846/</link>
+      <pubDate>Sat, 01 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2025-39779846/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39779846/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39779846&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma</title>
-      <link>http://localhost:1313/publication/nimkar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nimkar-2025/</guid>
-      <description></description>
+      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma.</title>
+      <link>http://localhost:1313/publication/nimkar-2025-40840447/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nimkar-2025-40840447/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40840447/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40840447&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution</title>
-      <link>http://localhost:1313/publication/wang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/wang-2024/</guid>
-      <description></description>
+      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts: diversity, topography, and perivascularity.</title>
+      <link>http://localhost:1313/publication/tsai-2024-39763751/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tsai-2024-39763751/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39763751/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39763751&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts: diversity, topography, and perivascularity</title>
-      <link>http://localhost:1313/publication/tsai-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/tsai-2024/</guid>
-      <description></description>
+      <title>Molecular and cellular dynamics of the developing human neocortex at single-cell resolution.</title>
+      <link>http://localhost:1313/publication/wang-2024-39131371/</link>
+      <pubDate>Sun, 04 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2024-39131371/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; This is a preprint.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/39131371/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;39131371&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Perivascular neurons instruct 3D vascular lattice formation via neurovascular contact</title>
-      <link>http://localhost:1313/publication/toma-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/toma-2024/</guid>
-      <description></description>
+      <title>Perivascular neurons instruct 3D vascular lattice formation via neurovascular contact.</title>
+      <link>http://localhost:1313/publication/toma-2024-38733989/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/toma-2024-38733989/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38733989/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;38733989&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Osteopontin drives retinal ganglion cell resiliency in glaucomatous optic neuropathy</title>
-      <link>http://localhost:1313/publication/zhao-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhao-2023/</guid>
-      <description></description>
+      <title>Osteopontin drives retinal ganglion cell resiliency in glaucomatous optic neuropathy.</title>
+      <link>http://localhost:1313/publication/zhao-2023-37624696/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhao-2023-37624696/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37624696/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37624696&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

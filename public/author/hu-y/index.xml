@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/hu-y/</link>
       <atom:link href="http://localhost:1313/author/hu-y/index.xml" rel="self" type="application/rss+xml" />
     <description>Hu Y</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Hu Y</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma</title>
-      <link>http://localhost:1313/publication/nimkar-2025/</link>
-      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/nimkar-2025/</guid>
-      <description></description>
+      <title>Molecular and spatial analysis of ganglion cells on retinal flatmounts identifies perivascular neurons resilient to glaucoma.</title>
+      <link>http://localhost:1313/publication/nimkar-2025-40840447/</link>
+      <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nimkar-2025-40840447/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/40840447/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;40840447&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Perivascular neurons instruct 3D vascular lattice formation via neurovascular contact</title>
-      <link>http://localhost:1313/publication/toma-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/toma-2024/</guid>
-      <description></description>
+      <title>Perivascular neurons instruct 3D vascular lattice formation via neurovascular contact.</title>
+      <link>http://localhost:1313/publication/toma-2024-38733989/</link>
+      <pubDate>Thu, 23 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/toma-2024-38733989/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38733989/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;38733989&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Osteopontin drives retinal ganglion cell resiliency in glaucomatous optic neuropathy</title>
-      <link>http://localhost:1313/publication/zhao-2023/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/zhao-2023/</guid>
-      <description></description>
+      <title>Osteopontin drives retinal ganglion cell resiliency in glaucomatous optic neuropathy.</title>
+      <link>http://localhost:1313/publication/zhao-2023-37624696/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhao-2023-37624696/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/37624696/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;37624696&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

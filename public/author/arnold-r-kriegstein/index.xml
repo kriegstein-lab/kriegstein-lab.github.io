@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arnold R Kriegstein | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/arnold-r-kriegstein/</link>
+      <atom:link href="http://localhost:1313/author/arnold-r-kriegstein/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arnold R Kriegstein</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Arnold R Kriegstein</title>
+      <link>http://localhost:1313/author/arnold-r-kriegstein/</link>
+    </image>
+    
+    <item>
+      <title>Arnold R Kriegstein, MD, PhD</title>
+      <link>http://localhost:1313/author/arnold-r-kriegstein-md-phd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/arnold-r-kriegstein-md-phd/</guid>
+      <description>&lt;p&gt;Dr. Kriegstein’s research focuses on the way in which neural stem and progenitor cells produce neurons in the embryonic brain.  His lab found that radial glial cells, long thought to simply guide nerve cells during migration, are neuronal stem cells in the developing brain.  He also described a class of intermediate precursor cells produced by radial glia, suggesting a new mechanism for the generation of cell diversity.  Recently, he has focused on the developing human brain and identified a radial glia-like progenitor cell in the outer subventricular zone that contributes to the huge expansion of neuron number that characterizes human cerebral cortex.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

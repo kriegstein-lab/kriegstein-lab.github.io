@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/visel-a/</link>
       <atom:link href="http://localhost:1313/author/visel-a/index.xml" rel="self" type="application/rss+xml" />
     <description>Visel A</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
       <title>Visel A</title>
@@ -13,27 +13,30 @@
     </image>
     
     <item>
-      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex</title>
-      <link>http://localhost:1313/publication/liang-2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/liang-2024/</guid>
-      <description></description>
+      <title>A conserved molecular logic for neurogenesis to gliogenesis switch in the cerebral cortex.</title>
+      <link>http://localhost:1313/publication/liang-2024-38713624/</link>
+      <pubDate>Tue, 14 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/liang-2024-38713624/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/38713624/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;38713624&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>A high-resolution enhancer atlas of the developing telencephalon</title>
-      <link>http://localhost:1313/publication/visel-2013/</link>
-      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/visel-2013/</guid>
-      <description></description>
+      <title>A high-resolution enhancer atlas of the developing telencephalon.</title>
+      <link>http://localhost:1313/publication/visel-2013-23375746/</link>
+      <pubDate>Thu, 14 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/visel-2013-23375746/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23375746/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23375746&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
-      <title>Use of \&#34;MGE enhancers\&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons</title>
-      <link>http://localhost:1313/publication/chen-2013/</link>
+      <title>Use of &#34;MGE enhancers&#34; for labeling and selection of embryonic stem cell-derived medial ganglionic eminence (MGE) progenitors and neurons.</title>
+      <link>http://localhost:1313/publication/chen-2013-23658702/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/chen-2013/</guid>
-      <description></description>
+      <guid>http://localhost:1313/publication/chen-2013-23658702/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;PubMed ID:&lt;/strong&gt; &lt;a href=&#34;https://pubmed.ncbi.nlm.nih.gov/23658702/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;23658702&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>
