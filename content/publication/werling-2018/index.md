@@ -50,9 +50,23 @@ authors:
 - Talkowski ME
 - Sanders SJ
 date: '2018-01-01'
-publishDate: '2025-12-24T23:07:11.608732Z'
+publishDate: '2025-12-26T05:29:39.543170Z'
 publication_types:
 - article-journal
 publication: '*Nat Genet*'
 doi: 10.1038/s41588-018-0107-y [pii]
+abstract: Genomic association studies of common or rare protein-coding variation have
+  established robust statistical approaches to account for multiple testing. Here
+  we present a comparable framework to evaluate rare and de novo noncoding single-nucleotide
+  variants, insertion/deletions, and all classes of structural variation from whole-genome
+  sequencing (WGS). Integrating genomic annotations at the level of nucleotides, genes,
+  and regulatory regions, we define 51,801 annotation categories. Analyses of 519
+  autism spectrum disorder families did not identify association with any categories
+  after correction for 4,123 effective tests. Without appropriate correction, biologically
+  plausible associations are observed in both cases and controls. Despite excluding
+  previously identified gene-disrupting mutations, coding regions still exhibited
+  the strongest associations. Thus, in autism, the contribution of de novo noncoding
+  variation is probably modest in comparison to that of de novo coding variants. Robust
+  results from future WGS studies will require large cohorts and comprehensive analytical
+  strategies that consider the substantial multiple-testing burden.
 ---

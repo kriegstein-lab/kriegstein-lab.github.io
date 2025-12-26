@@ -7,9 +7,22 @@ authors:
 - Sandoval-Espinosa C
 - Kriegstein AR
 date: '2016-01-01'
-publishDate: '2025-12-24T23:07:11.738391Z'
+publishDate: '2025-12-26T05:29:39.690796Z'
 publication_types:
 - article-journal
 publication: '*Neuron*'
 doi: S0896-6273(16)30564-5 [pii]
+abstract: The classic view of cortical development, embodied in the radial unit hypothesis,
+  highlights the ventricular radial glia (vRG) scaffold as a key architectonic feature
+  of the developing neocortex. The scaffold includes continuous fibers spanning the
+  thickness of the developing cortex during neurogenesis across mammals. However,
+  we find that in humans, the scaffold transforms into a physically discontinuous
+  structure during the transition from infragranular to supragranular neuron production.
+  As a consequence of this transformation, supragranular layer neurons arrive at their
+  terminal positions in the cortical plate along outer radial glia (oRG) cell fibers.
+  In parallel, the radial glia that contact the ventricle develop distinct gene expression
+  profile and \"truncated\" morphology. We propose a supragranular layer expansion
+  hypothesis that posits a deterministic role of oRG cells in the radial and tangential
+  expansion of supragranular layers in primates, with implications for patterns of
+  neuronal migration, area patterning, and cortical folding.
 ---

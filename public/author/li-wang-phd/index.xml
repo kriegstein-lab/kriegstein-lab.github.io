@@ -12,14 +12,5 @@
       <link>http://localhost:1313/author/li-wang-phd/</link>
     </image>
     
-    <item>
-      <title>Li Wang, PhD</title>
-      <link>http://localhost:1313/author/li-wang-phd/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/li-wang-phd/</guid>
-      <description>&lt;p&gt;I am interested in applying omics approaches to study human brain development and neural circuit formation, with a focus on cell-type specificity. In my spare time, I enjoy watching movies, documentaries, and traveling.&lt;/p&gt;
-</description>
-    </item>
-    
   </channel>
 </rss>

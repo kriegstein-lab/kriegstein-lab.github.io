@@ -20,9 +20,11 @@ authors:
 - Testa G
 - Greely HT
 date: '2025-01-01'
-publishDate: '2025-12-24T23:07:11.324192Z'
+publishDate: '2025-12-26T05:29:39.235264Z'
 publication_types:
 - article-journal
 publication: '*Science*'
 doi: 10.1126/science.aeb1510
+abstract: A continuing international process is needed to monitor and advise this
+  rapidly progressing field.
 ---

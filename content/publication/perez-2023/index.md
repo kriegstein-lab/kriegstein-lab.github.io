@@ -14,9 +14,27 @@ authors:
 - Chamberlain S
 - Kriegstein A
 date: '2023-01-01'
-publishDate: '2025-12-24T23:07:11.533706Z'
+publishDate: '2025-12-26T05:29:39.462846Z'
 publication_types:
 - article-journal
 publication: '*bioRxiv*'
 doi: 2023.09.22.559056 [pii]
+abstract: Duplication 15q (dup15q) syndrome is the most common genetic cause of autism
+  spectrum disorder (ASD). Due to a higher genetic and phenotypic homogeneity compared
+  to idiopathic autism, dup15q syndrome provides a well-defined setting to investigate
+  ASD mechanisms. Previous bulk gene expression studies identified shared molecular
+  changes in ASD. However, how cell type specific changes compare across different
+  autism subtypes and how they change during development is largely unknown. In this
+  study, we used single cell and single nucleus mRNA sequencing of dup15q cortical
+  organoids from patient iPSCs, as well as post-mortem patient brain samples. We find
+  cell-type specific dysregulated programs that underlie dup15q pathogenesis, which
+  we validate by spatial resolved transcriptomics using brain tissue samples. We find
+  degraded identity and vulnerability of deep-layer neurons in fetal stage organoids
+  and highlight increased molecular burden of postmortem upper-layer neurons implicated
+  in synaptic signaling, a finding shared between idiopathic ASD and dup15q syndrome.
+  Gene co-expression network analysis of organoid and postmortem excitatory neurons
+  uncovers modules enriched with autism risk genes. Organoid developmental modules
+  were involved in transcription regulation via chromatin remodeling, while postmortem
+  modules were associated with synaptic transmission and plasticity. The findings
+  reveal a shifting landscape of ASD cellular vulnerability during brain development.
 ---

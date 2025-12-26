@@ -16,9 +16,13 @@ authors:
 - Kwok PY
 - Wagner R
 date: '2010-01-01'
-publishDate: '2025-12-24T23:07:11.921689Z'
+publishDate: '2025-12-26T05:29:39.888333Z'
 publication_types:
 - article-journal
 publication: '*Cell Stem Cell*'
 doi: S1934-5909(09)00627-4 [pii]
+abstract: The use of iPSCs and tetraploid complementation for human reproductive cloning
+  would raise profound ethical objections. Professional standards and laws that ban
+  human reproductive cloning by somatic cell nuclear transfer should be revised to
+  also forbid it by other methods, such as iPSCs via tetraploid complementation.
 ---

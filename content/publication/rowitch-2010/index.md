@@ -4,9 +4,19 @@ authors:
 - Rowitch DH
 - Kriegstein AR
 date: '2010-01-01'
-publishDate: '2025-12-24T23:07:11.294748Z'
+publishDate: '2025-12-26T05:29:39.202533Z'
 publication_types:
 - article-journal
 publication: '*Nature*'
 doi: nature09611 [pii]
+abstract: Oligodendrocytes and astrocytes are macroglial cells of the vertebrate central
+  nervous system. These cells have diverse roles in the maintenance of neurological
+  function. In the embryo, the genetic mechanisms that underlie the specification
+  of macroglial precursors in vivo appear strikingly similar to those that regulate
+  the development of the diverse neuron types. The switch from producing neuronal
+  to glial subtype-specific precursors can be modelled as an interplay between region-restricted
+  components and temporal regulators that determine neurogenic or gliogenic phases
+  of development, contributing to glial diversity. Gaining insight into the developmental
+  genetics of macroglia has great potential to improve our understanding of a variety
+  of neurological disorders in humans.
 ---

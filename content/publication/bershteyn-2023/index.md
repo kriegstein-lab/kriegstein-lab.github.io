@@ -33,9 +33,23 @@ authors:
 - Priest C
 - Nicholas CR
 date: '2023-01-01'
-publishDate: '2025-12-24T23:07:11.110696Z'
+publishDate: '2025-12-26T05:29:38.994683Z'
 publication_types:
 - article-journal
 publication: '*Cell Stem Cell*'
 doi: S1934-5909(23)00296-5 [pii]
+abstract: Mesial temporal lobe epilepsy (MTLE) is the most common focal epilepsy.
+  One-third of patients have drug-refractory seizures and are left with suboptimal
+  therapeutic options such as brain tissue-destructive surgery. Here, we report the
+  development and characterization of a cell therapy alternative for drug-resistant
+  MTLE, which is derived from a human embryonic stem cell line and comprises cryopreserved,
+  post-mitotic, medial ganglionic eminence (MGE) pallial-type GABAergic interneurons.
+  Single-dose intrahippocampal delivery of the interneurons in a mouse model of chronic
+  MTLE resulted in consistent mesiotemporal seizure suppression, with most animals
+  becoming seizure-free and surviving longer. The grafted interneurons dispersed locally,
+  functionally integrated, persisted long term, and significantly reduced dentate
+  granule cell dispersion, a pathological hallmark of MTLE. These disease-modifying
+  effects were dose-dependent, with a broad therapeutic range. No adverse effects
+  were observed. These findings support an ongoing phase 1/2 clinical trial (NCT05135091)
+  for drug-resistant MTLE.
 ---
