@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthew White | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/matthew-white/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/matthew-white/</link>
+      <atom:link href="http://localhost:1313/author/matthew-white/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthew White</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/matthew-white/avatar_hu_3019cda99a38e7e6.jpg</url>
+      <url>http://localhost:1313/author/matthew-white/avatar_hu_3019cda99a38e7e6.jpg</url>
       <title>Matthew White</title>
-      <link>https://www.kriegstein-lab.com/author/matthew-white/</link>
+      <link>http://localhost:1313/author/matthew-white/</link>
     </image>
     
   </channel>

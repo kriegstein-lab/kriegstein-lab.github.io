@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mayer S | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/mayer-s/</link>
+      <atom:link href="http://localhost:1313/author/mayer-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mayer S</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Mayer S</title>
+      <link>http://localhost:1313/author/mayer-s/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell analysis of prenatal and postnatal human cortical development</title>
+      <link>http://localhost:1313/publication/velmeshev-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Immature excitatory neurons develop during adolescence in the human amygdala</title>
+      <link>http://localhost:1313/publication/sorrells-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
+      <link>http://localhost:1313/publication/mayer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
+      <link>http://localhost:1313/publication/schirmer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
+      <link>http://localhost:1313/publication/velmeshev-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
+      <link>http://localhost:1313/publication/paredes-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human hippocampal neurogenesis drops sharply in children to undetectable levels in adults</title>
+      <link>http://localhost:1313/publication/sorrells-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/sorrells-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

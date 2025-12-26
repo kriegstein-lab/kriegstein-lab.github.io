@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Castaneda-Castellanos DR | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/castaneda-castellanos-dr/</link>
+      <atom:link href="http://localhost:1313/author/castaneda-castellanos-dr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Castaneda-Castellanos DR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Castaneda-Castellanos DR</title>
+      <link>http://localhost:1313/author/castaneda-castellanos-dr/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell analysis of prenatal and postnatal human cortical development</title>
+      <link>http://localhost:1313/publication/velmeshev-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
+      <link>http://localhost:1313/publication/bultje-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bultje-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blind patch clamp recordings in embryonic and adult mammalian brain slices</title>
+      <link>http://localhost:1313/publication/castaneda-castellanos-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/castaneda-castellanos-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Controlling neuron number: does Numb do the math?</title>
+      <link>http://localhost:1313/publication/castaneda-castellanos-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/castaneda-castellanos-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

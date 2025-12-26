@@ -66,7 +66,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Scholars
+  - 
 ---
 
 Dr. Mukhtar is interested in the signaling and transcriptional networks that maintain neural stem cells, are responsible for cortical layering and control cell fate. She is working on understanding the temporal changes in isoforms during human cortical development and uses both primary human tissue and iPSC-derived cerebral organoids to study the isoform landscape in the neurogenic/gliogenic lineage. Her current project involves the manipulation of key RNA-binding proteins to elucidate cell-type specific downstream changes in splicing events, at a single-cell resolution.

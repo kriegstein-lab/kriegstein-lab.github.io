@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhou L | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/zhou-l/</link>
+      <atom:link href="http://localhost:1313/author/zhou-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhou L</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Zhou L</title>
+      <link>http://localhost:1313/author/zhou-l/</link>
+    </image>
+    
+    <item>
+      <title>alpha7 nicotinic acetylcholine receptors regulate radial glia fate in the developing human cortex</title>
+      <link>http://localhost:1313/publication/mukhtar-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mukhtar-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fate plasticity of interneuron specification</title>
+      <link>http://localhost:1313/publication/mostajo-radji-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mostajo-radji-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy</title>
+      <link>http://localhost:1313/publication/bershteyn-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tropism of SARS-CoV-2 for human cortical astrocytes</title>
+      <link>http://localhost:1313/publication/andrews-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

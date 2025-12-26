@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Broom C | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/broom-c/</link>
+      <atom:link href="http://localhost:1313/author/broom-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Broom C</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Broom C</title>
+      <link>http://localhost:1313/author/broom-c/</link>
+    </image>
+    
+    <item>
+      <title>Importing human pluripotent stem cell lines derived at another institution: tailoring review to ethical concerns</title>
+      <link>http://localhost:1313/publication/lo-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/lo-2009/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

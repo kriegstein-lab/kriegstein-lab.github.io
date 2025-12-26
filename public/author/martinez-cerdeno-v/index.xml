@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martinez-Cerdeno V | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/martinez-cerdeno-v/</link>
+      <atom:link href="http://localhost:1313/author/martinez-cerdeno-v/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martinez-Cerdeno V</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Martinez-Cerdeno V</title>
+      <link>http://localhost:1313/author/martinez-cerdeno-v/</link>
+    </image>
+    
+    <item>
+      <title>Radial glia in the proliferative ventricular zone of the embryonic and adult turtle, Trachemys scripta elegans</title>
+      <link>http://localhost:1313/publication/clinton-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/clinton-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Embryonic MGE precursor cells grafted into adult rat striatum integrate and ameliorate motor symptoms in 6-OHDA-lesioned rats</title>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct behaviors of neural stem and progenitor cells underlie cortical neurogenesis</title>
+      <link>http://localhost:1313/publication/noctor-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/noctor-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progenitors from the postnatal forebrain subventricular zone differentiate into cerebellar-like interneurons and cerebellar-specific astrocytes upon transplantation</title>
+      <link>http://localhost:1313/publication/milosevic-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/milosevic-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural stem and progenitor cells in cortical development</title>
+      <link>http://localhost:1313/publication/noctor-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/noctor-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Estradiol stimulates progenitor cell division in the ventricular and subventricular zones of the embryonic neocortex</title>
+      <link>http://localhost:1313/publication/martinez-cerdeno-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/martinez-cerdeno-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patterns of neural stem and progenitor cell division may underlie evolutionary cortical expansion</title>
+      <link>http://localhost:1313/publication/kriegstein-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cortical neurons arise in symmetric and asymmetric division zones and migrate through specific phases</title>
+      <link>http://localhost:1313/publication/noctor-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/noctor-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

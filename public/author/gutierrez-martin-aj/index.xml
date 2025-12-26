@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gutierrez Martin AJ | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/gutierrez-martin-aj/</link>
+      <atom:link href="http://localhost:1313/author/gutierrez-martin-aj/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gutierrez Martin AJ</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Gutierrez Martin AJ</title>
+      <link>http://localhost:1313/author/gutierrez-martin-aj/</link>
+    </image>
+    
+    <item>
+      <title>Does Adult Neurogenesis Persist in the Human Hippocampus?</title>
+      <link>http://localhost:1313/publication/paredes-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

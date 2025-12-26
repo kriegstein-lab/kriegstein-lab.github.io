@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weissman TA | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/weissman-ta/</link>
+      <atom:link href="http://localhost:1313/author/weissman-ta/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weissman TA</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Weissman TA</title>
+      <link>http://localhost:1313/author/weissman-ta/</link>
+    </image>
+    
+    <item>
+      <title>Calcium waves propagate through radial glial cells and modulate proliferation in the developing neocortex</title>
+      <link>http://localhost:1313/publication/weissman-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/weissman-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dividing precursor cells of the embryonic cortical ventricular zone have morphological and molecular characteristics of radial glia</title>
+      <link>http://localhost:1313/publication/noctor-2002/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/noctor-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

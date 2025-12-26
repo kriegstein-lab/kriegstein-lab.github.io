@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Guolong Zuo, PhD | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/guolong-zuo-phd/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/guolong-zuo-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/guolong-zuo-phd/</link>
+      <atom:link href="http://localhost:1313/author/guolong-zuo-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Guolong Zuo, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/guolong-zuo-phd/avatar_hu_71743e9cd20d5ad7.jpg</url>
+      <url>http://localhost:1313/author/guolong-zuo-phd/avatar_hu_71743e9cd20d5ad7.jpg</url>
       <title>Guolong Zuo, PhD</title>
-      <link>https://www.kriegstein-lab.com/author/guolong-zuo-phd/</link>
+      <link>http://localhost:1313/author/guolong-zuo-phd/</link>
     </image>
     
   </channel>

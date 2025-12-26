@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Szpankowski L | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/szpankowski-l/</link>
+      <atom:link href="http://localhost:1313/author/szpankowski-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Szpankowski L</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Szpankowski L</title>
+      <link>http://localhost:1313/author/szpankowski-l/</link>
+    </image>
+    
+    <item>
+      <title>Multimodal Single-Cell Analysis Reveals Physiological Maturation in the Developing Human Neocortex</title>
+      <link>http://localhost:1313/publication/mayer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mayer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-coverage single-cell mRNA sequencing reveals cellular heterogeneity and activated signaling pathways in developing cerebral cortex</title>
+      <link>http://localhost:1313/publication/pollen-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

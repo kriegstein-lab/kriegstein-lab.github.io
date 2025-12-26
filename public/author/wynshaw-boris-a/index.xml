@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wynshaw-Boris A | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/wynshaw-boris-a/</link>
+      <atom:link href="http://localhost:1313/author/wynshaw-boris-a/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wynshaw-Boris A</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Wynshaw-Boris A</title>
+      <link>http://localhost:1313/author/wynshaw-boris-a/</link>
+    </image>
+    
+    <item>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
+      <link>http://localhost:1313/publication/bershteyn-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cell-autonomous correction of ring chromosomes in human induced pluripotent stem cells</title>
+      <link>http://localhost:1313/publication/bershteyn-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

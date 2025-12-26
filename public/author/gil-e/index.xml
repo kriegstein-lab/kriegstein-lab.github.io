@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gil E | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/gil-e/</link>
+      <atom:link href="http://localhost:1313/author/gil-e/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gil E</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Gil E</title>
+      <link>http://localhost:1313/author/gil-e/</link>
+    </image>
+    
+    <item>
+      <title>Substructure and maturation of lamina-associated domains in neurons of the developing and adult human brain</title>
+      <link>http://localhost:1313/publication/zhang-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/zhang-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial 3D genome organization controls the activity of bivalent chromatin during human neurogenesis</title>
+      <link>http://localhost:1313/publication/ahanger-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distinct nuclear compartment-associated genome architecture in the developing mammalian brain</title>
+      <link>http://localhost:1313/publication/ahanger-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ahanger-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

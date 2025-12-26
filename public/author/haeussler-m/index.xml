@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Haeussler M | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/haeussler-m/</link>
+      <atom:link href="http://localhost:1313/author/haeussler-m/index.xml" rel="self" type="application/rss+xml" />
+    <description>Haeussler M</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Haeussler M</title>
+      <link>http://localhost:1313/author/haeussler-m/</link>
+    </image>
+    
+    <item>
+      <title>Single-cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
+      <link>http://localhost:1313/publication/perez-2025/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single cell analysis of dup15q syndrome reveals developmental and postnatal molecular changes in autism</title>
+      <link>http://localhost:1313/publication/perez-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/perez-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>http://localhost:1313/publication/crouch-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell atlas of early human brain development highlights heterogeneity of human neuroepithelial cells and early radial glia</title>
+      <link>http://localhost:1313/publication/eze-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/eze-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
+      <link>http://localhost:1313/publication/schirmer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell genomics identifies cell type-specific molecular changes in autism</title>
+      <link>http://localhost:1313/publication/velmeshev-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/velmeshev-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human-Specific NOTCH2NL Genes Affect Notch Signaling and Cortical Neurogenesis</title>
+      <link>http://localhost:1313/publication/fiddes-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/fiddes-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>http://localhost:1313/publication/nowakowski-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

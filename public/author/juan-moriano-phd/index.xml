@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juan Moriano, PhD | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/juan-moriano-phd/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/juan-moriano-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/juan-moriano-phd/</link>
+      <atom:link href="http://localhost:1313/author/juan-moriano-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Juan Moriano, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/juan-moriano-phd/avatar_hu_85da3e4078497e08.jpg</url>
+      <url>http://localhost:1313/author/juan-moriano-phd/avatar_hu_85da3e4078497e08.jpg</url>
       <title>Juan Moriano, PhD</title>
-      <link>https://www.kriegstein-lab.com/author/juan-moriano-phd/</link>
+      <link>http://localhost:1313/author/juan-moriano-phd/</link>
     </image>
     
   </channel>

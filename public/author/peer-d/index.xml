@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pe&#39;er D | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/peer-d/</link>
+      <atom:link href="http://localhost:1313/author/peer-d/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pe&#39;er D</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Pe&#39;er D</title>
+      <link>http://localhost:1313/author/peer-d/</link>
+    </image>
+    
+    <item>
+      <title>The commitment of the human cell atlas to humanity</title>
+      <link>http://localhost:1313/publication/amit-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/amit-2024/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A roadmap for the Human Developmental Cell Atlas</title>
+      <link>http://localhost:1313/publication/haniffa-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/haniffa-2021/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Human Cell Atlas</title>
+      <link>http://localhost:1313/publication/regev-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/regev-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lilian Gomes de Oliveira, PhD | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/lilian-gomes-de-oliveira-phd/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/lilian-gomes-de-oliveira-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/</link>
+      <atom:link href="http://localhost:1313/author/lilian-gomes-de-oliveira-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Lilian Gomes de Oliveira, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/lilian-gomes-de-oliveira-phd/avatar_hu_9b988d3f255f36a8.jpeg</url>
+      <url>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/avatar_hu_9b988d3f255f36a8.jpeg</url>
       <title>Lilian Gomes de Oliveira, PhD</title>
-      <link>https://www.kriegstein-lab.com/author/lilian-gomes-de-oliveira-phd/</link>
+      <link>http://localhost:1313/author/lilian-gomes-de-oliveira-phd/</link>
     </image>
     
   </channel>

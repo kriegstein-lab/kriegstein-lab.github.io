@@ -61,7 +61,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Scholars
+  - 
 ---
 
 Dr. Yonatan Perez received his PhD in Molecular biology and human genetics from the Ben Gurion University, Israel in 2017. In his PhD, He studied the molecular mechanisms of various hereditary human neurodevelopmental syndromes using high-throughput DNA sequencing, in-vivo studies, and stem cell-based model systems. His findings uncovered novel disease associated genes and pathways and allowed for carrier testing and early prenatal diagnosis. He then joined as a Gruss Lipper Postdoctoral Research Fellow to the Kriegstein lab at the University of California San Francisco (UCSF). In his current research, he is using patient derived and genetically modified three-dimensional (3D) stem cell based in-vitro models, as well as human postmortem brain tissues to study autism spectrum disorder (ASD). His research, informed by single cell genomics, is aiming to find convergent cell-type specific transcriptional pathways dysregulated in ASD. Yonatan is also spearheading spatial transcriptomic experiments in an effort to elucidate key molecular signatures that govern fate commitment of cell-specific lineages during brain development. 

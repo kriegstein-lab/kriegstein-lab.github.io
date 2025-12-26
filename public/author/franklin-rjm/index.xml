@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franklin RJM | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/franklin-rjm/</link>
+      <atom:link href="http://localhost:1313/author/franklin-rjm/index.xml" rel="self" type="application/rss+xml" />
+    <description>Franklin RJM</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Franklin RJM</title>
+      <link>http://localhost:1313/author/franklin-rjm/</link>
+    </image>
+    
+    <item>
+      <title>Neuronal vulnerability and multilineage diversity in multiple sclerosis</title>
+      <link>http://localhost:1313/publication/schirmer-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/schirmer-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oligodendrocyte Death in Pelizaeus-Merzbacher Disease Is Rescued by Iron Chelation</title>
+      <link>http://localhost:1313/publication/nobuta-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nobuta-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

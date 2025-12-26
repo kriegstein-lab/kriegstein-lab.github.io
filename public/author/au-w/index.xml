@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Au W | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/au-w/</link>
+      <atom:link href="http://localhost:1313/author/au-w/index.xml" rel="self" type="application/rss+xml" />
+    <description>Au W</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Au W</title>
+      <link>http://localhost:1313/author/au-w/</link>
+    </image>
+    
+    <item>
+      <title>Human pallial MGE-type GABAergic interneuron cell therapy for chronic focal epilepsy</title>
+      <link>http://localhost:1313/publication/bershteyn-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

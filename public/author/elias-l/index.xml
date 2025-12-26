@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elias L | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/elias-l/</link>
+      <atom:link href="http://localhost:1313/author/elias-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Elias L</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Elias L</title>
+      <link>http://localhost:1313/author/elias-l/</link>
+    </image>
+    
+    <item>
+      <title>In utero intraventricular injection and electroporation of E16 rat embryos</title>
+      <link>http://localhost:1313/publication/walantus-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/walantus-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

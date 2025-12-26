@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Subramanian L | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/subramanian-l/</link>
+      <atom:link href="http://localhost:1313/author/subramanian-l/index.xml" rel="self" type="application/rss+xml" />
+    <description>Subramanian L</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Subramanian L</title>
+      <link>http://localhost:1313/author/subramanian-l/</link>
+    </image>
+    
+    <item>
+      <title>mTOR signaling regulates the morphology and migration of outer radial glia in developing human cortex</title>
+      <link>http://localhost:1313/publication/andrews-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/andrews-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic behaviour of human neuroepithelial cells in the developing forebrain</title>
+      <link>http://localhost:1313/publication/subramanian-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/subramanian-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

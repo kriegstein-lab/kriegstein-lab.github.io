@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mengyi Song, PhD | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/mengyi-song-phd/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/mengyi-song-phd/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/mengyi-song-phd/</link>
+      <atom:link href="http://localhost:1313/author/mengyi-song-phd/index.xml" rel="self" type="application/rss+xml" />
     <description>Mengyi Song, PhD</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/mengyi-song-phd/avatar_hu_e3145482d02282fe.png</url>
+      <url>http://localhost:1313/author/mengyi-song-phd/avatar_hu_e3145482d02282fe.png</url>
       <title>Mengyi Song, PhD</title>
-      <link>https://www.kriegstein-lab.com/author/mengyi-song-phd/</link>
+      <link>http://localhost:1313/author/mengyi-song-phd/</link>
     </image>
     
   </channel>

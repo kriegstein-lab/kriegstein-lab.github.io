@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wang F | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/wang-f/</link>
+      <atom:link href="http://localhost:1313/author/wang-f/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wang F</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Wang F</title>
+      <link>http://localhost:1313/author/wang-f/</link>
+    </image>
+    
+    <item>
+      <title>Perivascular neurons instruct 3D vascular lattice formation via neurovascular contact</title>
+      <link>http://localhost:1313/publication/toma-2024/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/toma-2024/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

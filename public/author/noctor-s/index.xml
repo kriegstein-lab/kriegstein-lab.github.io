@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Noctor S | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/noctor-s/</link>
+      <atom:link href="http://localhost:1313/author/noctor-s/index.xml" rel="self" type="application/rss+xml" />
+    <description>Noctor S</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Noctor S</title>
+      <link>http://localhost:1313/author/noctor-s/</link>
+    </image>
+    
+    <item>
+      <title>Patterns of neural stem and progenitor cell division may underlie evolutionary cortical expansion</title>
+      <link>http://localhost:1313/publication/kriegstein-2006/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kriegstein-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The temporal and spatial origins of cortical interneurons predict their physiological subtype</title>
+      <link>http://localhost:1313/publication/butt-2005/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/butt-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

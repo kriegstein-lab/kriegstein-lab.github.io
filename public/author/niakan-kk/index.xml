@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Niakan KK | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/niakan-kk/</link>
+      <atom:link href="http://localhost:1313/author/niakan-kk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Niakan KK</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Niakan KK</title>
+      <link>http://localhost:1313/author/niakan-kk/</link>
+    </image>
+    
+    <item>
+      <title>A roadmap for the Human Developmental Cell Atlas</title>
+      <link>http://localhost:1313/publication/haniffa-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/haniffa-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

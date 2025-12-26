@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mora C | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/mora-c/</link>
+      <atom:link href="http://localhost:1313/author/mora-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mora C</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Mora C</title>
+      <link>http://localhost:1313/author/mora-c/</link>
+    </image>
+    
+    <item>
+      <title>Astroglial toxicity promotes synaptic degeneration in the thalamocortical circuit in frontotemporal dementia with GRN mutations</title>
+      <link>http://localhost:1313/publication/marsan-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/marsan-2023/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>http://localhost:1313/publication/crouch-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nests of dividing neuroblasts sustain interneuron production for the developing human brain</title>
+      <link>http://localhost:1313/publication/paredes-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/paredes-2022/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

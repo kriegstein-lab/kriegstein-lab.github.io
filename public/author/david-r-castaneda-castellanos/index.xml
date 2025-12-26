@@ -1,34 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>David R Castañeda-Castellanos | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/index.xml" rel="self" type="application/rss+xml" />
-    <description>David R Castañeda-Castellanos</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <title>David R Castaneda-Castellanos | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/david-r-castaneda-castellanos/</link>
+      <atom:link href="http://localhost:1313/author/david-r-castaneda-castellanos/index.xml" rel="self" type="application/rss+xml" />
+    <description>David R Castaneda-Castellanos</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.kriegstein-lab.com/media/icon_hu_48c5201f68d3f81e.png</url>
-      <title>David R Castañeda-Castellanos</title>
-      <link>https://www.kriegstein-lab.com/author/david-r-castaneda-castellanos/</link>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>David R Castaneda-Castellanos</title>
+      <link>http://localhost:1313/author/david-r-castaneda-castellanos/</link>
     </image>
     
     <item>
-      <title>Blind patch clamp recordings in embryonic and adult mammalian brain slices</title>
-      <link>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2006-we/</link>
-      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
-      <guid>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2006-we/</guid>
+      <title>Regulation of microtubule stability and organization by mammalian Par3 in specifying neuronal polarity</title>
+      <link>http://localhost:1313/publication/chen-2012-yi/</link>
+      <pubDate>Sat, 01 Dec 2012 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/chen-2012-yi/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Controlling neuron number: does Numb do the math?</title>
-      <link>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2004-zj/</link>
-      <pubDate>Sun, 01 Aug 2004 00:00:00 +0000</pubDate>
-      <guid>https://www.kriegstein-lab.com/publication/castaneda-castellanos-2004-zj/</guid>
+      <title>Mammalian Par3 regulates progenitor cell asymmetric division via notch signaling in the developing neocortex</title>
+      <link>http://localhost:1313/publication/bultje-2009-tx/</link>
+      <pubDate>Wed, 01 Jul 2009 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bultje-2009-tx/</guid>
       <description></description>
     </item>
     
-  </channel>
-</rss>
   </channel>
 </rss>

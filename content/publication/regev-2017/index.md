@@ -1,0 +1,71 @@
+---
+title: The Human Cell Atlas
+authors:
+- Regev A
+- Teichmann SA
+- Lander ES
+- Amit I
+- Benoist C
+- Birney E
+- Bodenmiller B
+- Campbell P
+- Carninci P
+- Clatworthy M
+- Clevers H
+- Deplancke B
+- Dunham I
+- Eberwine J
+- Eils R
+- Enard W
+- Farmer A
+- Fugger L
+- Gottgens B
+- Hacohen N
+- Haniffa M
+- Hemberg M
+- Kim S
+- Klenerman P
+- Kriegstein A
+- Lein E
+- Linnarsson S
+- Lundberg E
+- Lundeberg J
+- Majumder P
+- Marioni JC
+- Merad M
+- Mhlanga M
+- Nawijn M
+- Netea M
+- Nolan G
+- Pe'er D
+- Phillipakis A
+- Ponting CP
+- Quake S
+- Reik W
+- Rozenblatt-Rosen O
+- Sanes J
+- Satija R
+- Schumacher TN
+- Shalek A
+- Shapiro E
+- Sharma P
+- Shin JW
+- Stegle O
+- Stratton M
+- Stubbington MJT
+- Theis FJ
+- Uhlen M
+- van Oudenaarden A
+- Wagner A
+- Watt F
+- Weissman J
+- Wold B
+- Xavier R
+- Yosef N
+date: '2017-01-01'
+publishDate: '2025-12-24T23:07:11.052517Z'
+publication_types:
+- article-journal
+publication: '*Elife*'
+doi: e27041 [pii]
+---

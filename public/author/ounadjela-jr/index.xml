@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ounadjela JR | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/ounadjela-jr/</link>
+      <atom:link href="http://localhost:1313/author/ounadjela-jr/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ounadjela JR</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Ounadjela JR</title>
+      <link>http://localhost:1313/author/ounadjela-jr/</link>
+    </image>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>http://localhost:1313/publication/nowakowski-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

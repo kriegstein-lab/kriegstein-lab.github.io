@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sandoval-Espinosa C | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/sandoval-espinosa-c/</link>
+      <atom:link href="http://localhost:1313/author/sandoval-espinosa-c/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sandoval-Espinosa C</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Sandoval-Espinosa C</title>
+      <link>http://localhost:1313/author/sandoval-espinosa-c/</link>
+    </image>
+    
+    <item>
+      <title>Ensembles of endothelial and mural cells promote angiogenesis in prenatal human brain</title>
+      <link>http://localhost:1313/publication/crouch-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/crouch-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>http://localhost:1313/publication/nowakowski-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transformation of the Radial Glia Scaffold Demarcates Two Stages of Human Cerebral Cortex Development</title>
+      <link>http://localhost:1313/publication/nowakowski-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>http://localhost:1313/publication/retallack-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/retallack-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Molecular identity of human outer radial glia during cortical development</title>
+      <link>http://localhost:1313/publication/pollen-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

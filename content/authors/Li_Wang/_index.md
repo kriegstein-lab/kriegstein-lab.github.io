@@ -64,7 +64,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Scholars
+  - 
 ---
 
 I am interested in applying omics approaches to study human brain development and neural circuit formation, with a focus on cell-type specificity. In my spare time, I enjoy watching movies, documentaries, and traveling.

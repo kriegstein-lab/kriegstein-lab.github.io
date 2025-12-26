@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Di Lullo E | Kriegstein Lab</title>
+    <link>http://localhost:1313/author/di-lullo-e/</link>
+      <atom:link href="http://localhost:1313/author/di-lullo-e/index.xml" rel="self" type="application/rss+xml" />
+    <description>Di Lullo E</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_48c5201f68d3f81e.png</url>
+      <title>Di Lullo E</title>
+      <link>http://localhost:1313/author/di-lullo-e/</link>
+    </image>
+    
+    <item>
+      <title>Zika virus alters centrosome organization to suppress the innate immune response</title>
+      <link>http://localhost:1313/publication/kodani-2022/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/kodani-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Establishing Cerebral Organoids as Models of Human-Specific Brain Evolution</title>
+      <link>http://localhost:1313/publication/pollen-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/pollen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Phenotypes of Proliferating Glioblastoma Cells Reside on a Single Axis of Variation</title>
+      <link>http://localhost:1313/publication/wang-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/wang-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Human iPSC-Derived Cerebral Organoids Model Cellular Features of Lissencephaly and Reveal Prolonged Mitosis of Outer Radial Glia</title>
+      <link>http://localhost:1313/publication/bershteyn-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/bershteyn-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>oRGs and mitotic somal translocation - a role in development and disease</title>
+      <link>http://localhost:1313/publication/ostrem-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/ostrem-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell profiling of human gliomas reveals macrophage ontogeny as a basis for regional differences in macrophage activation in the tumor microenvironment</title>
+      <link>http://localhost:1313/publication/muller-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatiotemporal gene expression trajectories reveal developmental hierarchies of the human cortex</title>
+      <link>http://localhost:1313/publication/nowakowski-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/nowakowski-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The use of brain organoids to investigate neural development and disease</title>
+      <link>http://localhost:1313/publication/di-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/di-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-cell sequencing maps gene expression to mutational phylogenies in PDGF- and EGF-driven gliomas</title>
+      <link>http://localhost:1313/publication/muller-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/muller-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zika virus cell tropism in the developing human brain and inhibition by azithromycin</title>
+      <link>http://localhost:1313/publication/retallack-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/retallack-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

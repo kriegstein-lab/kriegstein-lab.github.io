@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jennifer Baltazar | Kriegstein Lab</title>
-    <link>https://www.kriegstein-lab.com/author/jennifer-baltazar/</link>
-      <atom:link href="https://www.kriegstein-lab.com/author/jennifer-baltazar/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jennifer-baltazar/</link>
+      <atom:link href="http://localhost:1313/author/jennifer-baltazar/index.xml" rel="self" type="application/rss+xml" />
     <description>Jennifer Baltazar</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://www.kriegstein-lab.com/author/jennifer-baltazar/avatar_hu_ab201cbbfe9d898f.jpeg</url>
+      <url>http://localhost:1313/author/jennifer-baltazar/avatar_hu_ab201cbbfe9d898f.jpeg</url>
       <title>Jennifer Baltazar</title>
-      <link>https://www.kriegstein-lab.com/author/jennifer-baltazar/</link>
+      <link>http://localhost:1313/author/jennifer-baltazar/</link>
     </image>
     
   </channel>
